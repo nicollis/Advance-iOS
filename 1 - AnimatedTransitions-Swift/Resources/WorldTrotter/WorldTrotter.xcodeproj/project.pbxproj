@@ -17,6 +17,15 @@
 		6BB4AB761B7BF14900967615 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BB4AB751B7BF14900967615 /* MapKit.framework */; };
 		6BB4AB781B7BFBA700967615 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB4AB771B7BFBA700967615 /* MapViewController.swift */; };
 		6BB4ABBE1B8291D600967615 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6BB4ABC01B8291D600967615 /* Localizable.strings */; };
+		871EC8D620694BF6001D01CD /* SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D520694BF6001D01CD /* SlideInteraction.swift */; };
+		871EC8D720694BF6001D01CD /* SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D520694BF6001D01CD /* SlideInteraction.swift */; };
+		871EC8D820694BF6001D01CD /* SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D520694BF6001D01CD /* SlideInteraction.swift */; };
+		871EC8DA20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D920694C8F001D01CD /* UITabBarController+SlideInteraction.swift */; };
+		871EC8DB20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D920694C8F001D01CD /* UITabBarController+SlideInteraction.swift */; };
+		871EC8DC20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8D920694C8F001D01CD /* UITabBarController+SlideInteraction.swift */; };
+		871EC8DE20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8DD20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift */; };
+		871EC8DF20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8DD20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift */; };
+		871EC8E020696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871EC8DD20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift */; };
 		877983732069352F0002E5E2 /* TabDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877983722069352F0002E5E2 /* TabDelegate.swift */; };
 		877983742069352F0002E5E2 /* TabDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877983722069352F0002E5E2 /* TabDelegate.swift */; };
 		877983752069352F0002E5E2 /* TabDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877983722069352F0002E5E2 /* TabDelegate.swift */; };
@@ -63,6 +72,9 @@
 		6BB4ABBF1B8291D600967615 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
 		6BB4ABC11B8291D800967615 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		6BB4ABC21B8291D900967615 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		871EC8D520694BF6001D01CD /* SlideInteraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideInteraction.swift; sourceTree = "<group>"; };
+		871EC8D920694C8F001D01CD /* UITabBarController+SlideInteraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITabBarController+SlideInteraction.swift"; sourceTree = "<group>"; };
+		871EC8DD20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SlideInteraction+UIGestureRecognizerDelegate.swift"; sourceTree = "<group>"; };
 		877983722069352F0002E5E2 /* TabDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabDelegate.swift; sourceTree = "<group>"; };
 		877983762069375C0002E5E2 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -121,6 +133,9 @@
 				6BB4AB431B7A5D4200967615 /* AppDelegate.swift */,
 				877983762069375C0002E5E2 /* SlideTransition.swift */,
 				877983722069352F0002E5E2 /* TabDelegate.swift */,
+				871EC8D520694BF6001D01CD /* SlideInteraction.swift */,
+				871EC8D920694C8F001D01CD /* UITabBarController+SlideInteraction.swift */,
+				871EC8DD20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift */,
 				6BB4AB471B7A5D4200967615 /* Main.storyboard */,
 				6BB4AB771B7BFBA700967615 /* MapViewController.swift */,
 				6BB4ABC01B8291D600967615 /* Localizable.strings */,
@@ -285,9 +300,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BB4AB721B7BD4C500967615 /* ConversionViewController.swift in Sources */,
+				871EC8DE20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */,
 				6BB4AB781B7BFBA700967615 /* MapViewController.swift in Sources */,
 				877983732069352F0002E5E2 /* TabDelegate.swift in Sources */,
 				6BB4AB441B7A5D4200967615 /* AppDelegate.swift in Sources */,
+				871EC8DA20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */,
+				871EC8D620694BF6001D01CD /* SlideInteraction.swift in Sources */,
 				877983772069375C0002E5E2 /* SlideTransition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -298,6 +316,9 @@
 			files = (
 				877983742069352F0002E5E2 /* TabDelegate.swift in Sources */,
 				877983782069375C0002E5E2 /* SlideTransition.swift in Sources */,
+				871EC8DB20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */,
+				871EC8DF20696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */,
+				871EC8D720694BF6001D01CD /* SlideInteraction.swift in Sources */,
 				6BB4AB591B7A5D4200967615 /* WorldTrotterTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -308,6 +329,9 @@
 			files = (
 				877983752069352F0002E5E2 /* TabDelegate.swift in Sources */,
 				877983792069375C0002E5E2 /* SlideTransition.swift in Sources */,
+				871EC8DC20694C8F001D01CD /* UITabBarController+SlideInteraction.swift in Sources */,
+				871EC8E020696405001D01CD /* SlideInteraction+UIGestureRecognizerDelegate.swift in Sources */,
+				871EC8D820694BF6001D01CD /* SlideInteraction.swift in Sources */,
 				6BB4AB641B7A5D4200967615 /* WorldTrotterUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

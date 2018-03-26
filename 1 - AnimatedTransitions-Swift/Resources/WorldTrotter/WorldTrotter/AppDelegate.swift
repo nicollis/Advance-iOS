@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         guard let tabBarController = window?.rootViewController as? UITabBarController else {
             preconditionFailure("Unexpected root hierarchy in main storyboard")
         }
-        tabDelegate = TabDelegate()
+        tabDelegate = TabDelegate(tabBarController: tabBarController)
         tabDelegate.layoutDirection = application.userInterfaceLayoutDirection
         tabBarController.delegate = tabDelegate
         return true
