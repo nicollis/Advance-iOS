@@ -1,0 +1,16 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{ title }}</title>
+    {% else %}
+    <title>Welcome to Catalog</title>
+    {% endif %}
+    <meta name="viewport" content="initial-scale=1.0" />
+  </head>
+  <body>
+    <div>Catalog: <a href="/index">Home</a></div>
+    <hr>
+    {% block content %}{% endblock %}
+
+  </body>
+</html>

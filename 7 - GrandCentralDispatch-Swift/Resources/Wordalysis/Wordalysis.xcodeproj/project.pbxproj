@@ -1,0 +1,395 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A671ABD31DDBE6C4007B19AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A671ABCE1DDBE6C4007B19AF /* AppDelegate.swift */; };
+		A671ABD41DDBE6C4007B19AF /* FilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A671ABCF1DDBE6C4007B19AF /* FilesViewController.swift */; };
+		A671ABD61DDBE6C4007B19AF /* TextFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A671ABD11DDBE6C4007B19AF /* TextFinder.swift */; };
+		A671ABD71DDBE6C4007B19AF /* WordCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A671ABD21DDBE6C4007B19AF /* WordCounter.swift */; };
+		A671ABD91DDBE6DE007B19AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A671ABD81DDBE6DE007B19AF /* Assets.xcassets */; };
+		A671ABDE1DDBE6E9007B19AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A671ABDA1DDBE6E9007B19AF /* LaunchScreen.storyboard */; };
+		A671ABDF1DDBE6E9007B19AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A671ABDC1DDBE6E9007B19AF /* Main.storyboard */; };
+		A671ABEA1DDBE71E007B19AF /* Dracula.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE11DDBE71E007B19AF /* Dracula.txt */; };
+		A671ABEB1DDBE71E007B19AF /* London Medical Gazette (1828-12-27).txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE21DDBE71E007B19AF /* London Medical Gazette (1828-12-27).txt */; };
+		A671ABEC1DDBE71E007B19AF /* Moby Dick.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE31DDBE71E007B19AF /* Moby Dick.txt */; };
+		A671ABED1DDBE71E007B19AF /* Pride and Prejudice.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE41DDBE71E007B19AF /* Pride and Prejudice.txt */; };
+		A671ABEE1DDBE71E007B19AF /* War and Peace v2.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE51DDBE71E007B19AF /* War and Peace v2.txt */; };
+		A671ABEF1DDBE71E007B19AF /* War and Peace v3.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE61DDBE71E007B19AF /* War and Peace v3.txt */; };
+		A671ABF01DDBE71E007B19AF /* War and Peace v4.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE71DDBE71E007B19AF /* War and Peace v4.txt */; };
+		A671ABF11DDBE71E007B19AF /* War and Peace v5.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE81DDBE71E007B19AF /* War and Peace v5.txt */; };
+		A671ABF21DDBE71E007B19AF /* War and Peace.txt in Resources */ = {isa = PBXBuildFile; fileRef = A671ABE91DDBE71E007B19AF /* War and Peace.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A64803271D9F0C4D003CF770 /* Wordalysis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wordalysis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A671ABCE1DDBE6C4007B19AF /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Wordalysis/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
+		A671ABCF1DDBE6C4007B19AF /* FilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FilesViewController.swift; path = Wordalysis/FilesViewController.swift; sourceTree = SOURCE_ROOT; };
+		A671ABD01DDBE6C4007B19AF /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
+		A671ABD11DDBE6C4007B19AF /* TextFinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TextFinder.swift; path = Wordalysis/TextFinder.swift; sourceTree = SOURCE_ROOT; };
+		A671ABD21DDBE6C4007B19AF /* WordCounter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WordCounter.swift; path = Wordalysis/WordCounter.swift; sourceTree = SOURCE_ROOT; };
+		A671ABD81DDBE6DE007B19AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		A671ABDB1DDBE6E9007B19AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Wordalysis/Base.lproj/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		A671ABDD1DDBE6E9007B19AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Wordalysis/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
+		A671ABE11DDBE71E007B19AF /* Dracula.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Dracula.txt; path = Texts/Dracula.txt; sourceTree = SOURCE_ROOT; };
+		A671ABE21DDBE71E007B19AF /* London Medical Gazette (1828-12-27).txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "London Medical Gazette (1828-12-27).txt"; path = "Texts/London Medical Gazette (1828-12-27).txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE31DDBE71E007B19AF /* Moby Dick.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Moby Dick.txt"; path = "Texts/Moby Dick.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE41DDBE71E007B19AF /* Pride and Prejudice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Pride and Prejudice.txt"; path = "Texts/Pride and Prejudice.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE51DDBE71E007B19AF /* War and Peace v2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "War and Peace v2.txt"; path = "Texts/War and Peace v2.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE61DDBE71E007B19AF /* War and Peace v3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "War and Peace v3.txt"; path = "Texts/War and Peace v3.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE71DDBE71E007B19AF /* War and Peace v4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "War and Peace v4.txt"; path = "Texts/War and Peace v4.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE81DDBE71E007B19AF /* War and Peace v5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "War and Peace v5.txt"; path = "Texts/War and Peace v5.txt"; sourceTree = SOURCE_ROOT; };
+		A671ABE91DDBE71E007B19AF /* War and Peace.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "War and Peace.txt"; path = "Texts/War and Peace.txt"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A64803241D9F0C4D003CF770 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A648031E1D9F0C4D003CF770 = {
+			isa = PBXGroup;
+			children = (
+				A6FF6FFB2056361200B8275C /* Texts */,
+				A6FF6FFA205635B700B8275C /* Wordalysis */,
+				A64803281D9F0C4D003CF770 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A64803281D9F0C4D003CF770 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A64803271D9F0C4D003CF770 /* Wordalysis.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A6FF6FF7205631F100B8275C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A671ABD01DDBE6C4007B19AF /* Info.plist */,
+				A671ABDA1DDBE6E9007B19AF /* LaunchScreen.storyboard */,
+				A671ABD81DDBE6DE007B19AF /* Assets.xcassets */,
+			);
+			name = "Supporting Files";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		A6FF6FFA205635B700B8275C /* Wordalysis */ = {
+			isa = PBXGroup;
+			children = (
+				A671ABDC1DDBE6E9007B19AF /* Main.storyboard */,
+				A671ABCE1DDBE6C4007B19AF /* AppDelegate.swift */,
+				A671ABD11DDBE6C4007B19AF /* TextFinder.swift */,
+				A671ABD21DDBE6C4007B19AF /* WordCounter.swift */,
+				A671ABCF1DDBE6C4007B19AF /* FilesViewController.swift */,
+				A6FF6FF7205631F100B8275C /* Supporting Files */,
+			);
+			path = Wordalysis;
+			sourceTree = "<group>";
+		};
+		A6FF6FFB2056361200B8275C /* Texts */ = {
+			isa = PBXGroup;
+			children = (
+				A671ABE11DDBE71E007B19AF /* Dracula.txt */,
+				A671ABE21DDBE71E007B19AF /* London Medical Gazette (1828-12-27).txt */,
+				A671ABE31DDBE71E007B19AF /* Moby Dick.txt */,
+				A671ABE41DDBE71E007B19AF /* Pride and Prejudice.txt */,
+				A671ABE91DDBE71E007B19AF /* War and Peace.txt */,
+				A671ABE51DDBE71E007B19AF /* War and Peace v2.txt */,
+				A671ABE61DDBE71E007B19AF /* War and Peace v3.txt */,
+				A671ABE71DDBE71E007B19AF /* War and Peace v4.txt */,
+				A671ABE81DDBE71E007B19AF /* War and Peace v5.txt */,
+			);
+			path = Texts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A64803261D9F0C4D003CF770 /* Wordalysis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A64803391D9F0C4D003CF770 /* Build configuration list for PBXNativeTarget "Wordalysis" */;
+			buildPhases = (
+				A64803231D9F0C4D003CF770 /* Sources */,
+				A64803241D9F0C4D003CF770 /* Frameworks */,
+				A64803251D9F0C4D003CF770 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Wordalysis;
+			productName = Sieverb;
+			productReference = A64803271D9F0C4D003CF770 /* Wordalysis.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A648031F1D9F0C4D003CF770 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = "Big Nerd Ranch";
+				TargetAttributes = {
+					A64803261D9F0C4D003CF770 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = VMY8R4T742;
+						LastSwiftMigration = 0900;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A64803221D9F0C4D003CF770 /* Build configuration list for PBXProject "Wordalysis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A648031E1D9F0C4D003CF770;
+			productRefGroup = A64803281D9F0C4D003CF770 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A64803261D9F0C4D003CF770 /* Wordalysis */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A64803251D9F0C4D003CF770 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A671ABF11DDBE71E007B19AF /* War and Peace v5.txt in Resources */,
+				A671ABEE1DDBE71E007B19AF /* War and Peace v2.txt in Resources */,
+				A671ABF21DDBE71E007B19AF /* War and Peace.txt in Resources */,
+				A671ABDE1DDBE6E9007B19AF /* LaunchScreen.storyboard in Resources */,
+				A671ABD91DDBE6DE007B19AF /* Assets.xcassets in Resources */,
+				A671ABEB1DDBE71E007B19AF /* London Medical Gazette (1828-12-27).txt in Resources */,
+				A671ABDF1DDBE6E9007B19AF /* Main.storyboard in Resources */,
+				A671ABEF1DDBE71E007B19AF /* War and Peace v3.txt in Resources */,
+				A671ABEA1DDBE71E007B19AF /* Dracula.txt in Resources */,
+				A671ABF01DDBE71E007B19AF /* War and Peace v4.txt in Resources */,
+				A671ABEC1DDBE71E007B19AF /* Moby Dick.txt in Resources */,
+				A671ABED1DDBE71E007B19AF /* Pride and Prejudice.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A64803231D9F0C4D003CF770 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A671ABD71DDBE6C4007B19AF /* WordCounter.swift in Sources */,
+				A671ABD61DDBE6C4007B19AF /* TextFinder.swift in Sources */,
+				A671ABD41DDBE6C4007B19AF /* FilesViewController.swift in Sources */,
+				A671ABD31DDBE6C4007B19AF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A671ABDA1DDBE6E9007B19AF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A671ABDB1DDBE6E9007B19AF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A671ABDC1DDBE6E9007B19AF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A671ABDD1DDBE6E9007B19AF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A64803371D9F0C4D003CF770 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A64803381D9F0C4D003CF770 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A648033A1D9F0C4D003CF770 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = VMY8R4T742;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bnr.Wordalysis;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		A648033B1D9F0C4D003CF770 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = VMY8R4T742;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bnr.Wordalysis;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A64803221D9F0C4D003CF770 /* Build configuration list for PBXProject "Wordalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A64803371D9F0C4D003CF770 /* Debug */,
+				A64803381D9F0C4D003CF770 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A64803391D9F0C4D003CF770 /* Build configuration list for PBXNativeTarget "Wordalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A648033A1D9F0C4D003CF770 /* Debug */,
+				A648033B1D9F0C4D003CF770 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A648031F1D9F0C4D003CF770 /* Project object */;
+}

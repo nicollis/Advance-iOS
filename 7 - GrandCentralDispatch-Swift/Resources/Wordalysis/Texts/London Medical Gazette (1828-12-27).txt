@@ -1,0 +1,3207 @@
+﻿Project Gutenberg's The London Medical Gazette; December 27, 1828, by Various
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The London Medical Gazette; December 27, 1828
+       Being a Weekly Journal of Medicine and the Collateral Sciences
+
+Author: Various
+
+Release Date: November 5, 2016 [EBook #53450]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LONDON MEDICAL GAZETTE, DEC 27, 1828 ***
+
+
+
+
+Produced by John Campbell and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+
+
+  TRANSCRIBER'S NOTE
+
+  Italic text is denoted by _underscores_.
+
+  The 'Apothecary System' of measurement was used in the original text.
+  The etext uses the following Unicode symbols:
+      ℞      Prescription symbol
+      ʒ      Dram
+      ℥      Ounce
+      ℳ      Scruple
+  Roman numerals, and 'ss.' for 'half', are retained, so for example
+  '℥iss.' indicates 'one and a half ounces'.
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  More detail can be found at the end of the book.
+
+
+
+
+  THE
+  LONDON MEDICAL GAZETTE,
+
+  BEING A
+  WEEKLY JOURNAL
+  OF
+  Medicine and the Collateral Sciences.
+
+  SATURDAY, DECEMBER 27, 1828.
+
+
+
+
+PATHOLOGICAL ESSAYS
+
+ON SOME
+
+DISEASES OF THE HEART;
+
+_Being the Substance of Lectures delivered before the College of
+Physicians_,
+
+BY P. MERE LATHAM, M.D.
+
+Physician to St. Bartholomew's Hospital.
+
+[Continued from p. 7.]
+
+
+ESSAY II.
+
+_Morbid Anatomy of the Internal Lining Membrane of the Heart._
+
+The membrane which lines the cavities of the heart is very liable
+to disease, but not equally so in every part. Where it is thin
+and transparent, and admits the colour and character of the
+muscular structure upon which it is spread to be seen through it,
+it is seldom found diseased; but where it is of a denser texture,
+either in itself or from an admixture of other structures, whether
+cellular or fibrous, with its own, it is frequently, and often
+exclusively diseased. This latter character of a denser texture
+belongs to it where it forms the tough white circles which surround
+the apertures of communication between the auricles and ventricles;
+also where it is reflected upon itself, and forms the loose
+duplicatures of membrane, which are given off, as it were, from
+the internal surface of the heart, either at the fibrous circles
+intermediate between the auricles and ventricles, constituting the
+tricuspid and the mitral valves, or at the commencement of the
+pulmonary artery and aorta, constituting the semilunar valves.
+
+It is remarkable how curiously disease is apt to limit itself to
+the spaces just pointed out. Of the fibrous circle between the
+auricle and ventricle, of the valves which originate from it, and
+of the tendinous cords which connect the valves with the carneæ
+columnæ, there will not be the smallest space free from disease;
+but the disease will abruptly stop where the tendinous cords cease
+and the carneæ columnæ begin[1].
+
+The membrane, however, where it covers the fleshy columns of the
+heart, is not exempt from the possibility of disease: but when
+disease actually affects it, it has seldom originated there,
+but has generally spread from other parts of the same membrane,
+although (as we have just remarked) it is apt to stop short before
+it reaches this.
+
+Of the two sides of the heart, the membrane which lines the left is
+unquestionably the more liable to disease. But my own observation
+would never have led me to conclude that the membrane of the right
+side was so far exempt as it is commonly thought to be. Speaking
+from the best recollection I have of the specimens which have
+fallen under my examination, I should say that, in one-third of the
+cases where disease has been found on the left side, it has existed
+on the right side also, and been essentially of the same character.
+But there has been a remarkable difference in the extent to which
+it has proceeded on each side respectively: while on the left it
+has gone so far as to be the undoubted cause of death, on the
+right, although essentially of the same character, it has been only
+just beginning.
+
+It very seldom happens that disease appertains to the lining of
+the right cavities of the heart exclusively; and, where it affects
+both, the disease in the right cavities is very seldom found in
+advance of that in the left.
+
+It should seem, indeed, according to the ordinary course of things,
+that disease does not begin in the lining of the right cavities of
+the heart, until it has already advanced to an extreme degree in
+the left.
+
+The internal lining of the heart, as well as of the arteries, is
+often found to have become of a red colour. This redness, so well
+known to all who are accustomed to examine dead bodies, used to be
+regarded as a mere stain imparted to it by the colouring matter
+of the blood after death. Yet a due consideration of various
+circumstances connected with it will hardly warrant this conclusion.
+
+It has been found whether the heart or artery be full or empty of
+blood; and if blood be present it has been found, whether it is
+liquid or clotted; and if it be clotted, whether it does or does
+not retain its colouring matter. External temperature, and length
+of time between the death of the patient and the dissection of his
+body, have not made any difference in the frequency with which
+this peculiar appearance occurs. Lastly, no artificial methods,
+such as washing of any kind, can get rid of it; nor will inclosing
+blood within an artery for any period produce it[2]. This simple
+redness is sometimes seen universally in both sides of the heart
+and throughout the whole arterial system, and sometimes in patches
+only, of greater or less extent, whether in the arteries or in the
+heart.
+
+Now, when all these circumstances are considered, although in some
+instances it may be a mere stain imparted by the colouring matter
+of the blood after death, it is plainly impossible that it should
+be of that nature in any large proportion of the numerous instances
+in which it is found.
+
+But if the appearance in question implies (as I believe it
+generally does) a morbid condition, of what kind is that condition?
+There are the same objections to considering mere redness as
+equivalent to inflammation here as in the pericardium, or in any
+other part of the body: here, as elsewhere, in one case it may
+be the condition out of which inflammation is to spring; while in
+another it may not be destined to give origin to any change in the
+structure of the part beyond itself, and may itself constitute the
+whole disease.
+
+It appears to me, that this mere redness of the internal lining
+of the heart and arteries has become a matter of undue perplexity
+to pathologists, because they have laboured to infer from it
+more than the simple fact itself will authorize. All I wish to
+establish concerning it is, first, that it is not always (probably
+very seldom) a mere stain imparted by the colouring matter of the
+blood after death; secondly, that it alone does not constitute
+inflammation.
+
+It may not be improper to mention the circumstances under which
+it has occurred to myself to find it. I have met with it most
+frequently, and to the largest extent, in subjects whose previous
+disease has produced a constant and habitual impediment to the
+transmission of blood through the heart and through the lungs,
+and that impediment has gone on increasing to the hour of their
+death; also in those, whatever might have been the nature of
+their disease, whose dissolution (I mean the actual process of
+dying) has been tardy and agonizing, and marked by great labour of
+respiration; in the apoplectic, for example, in whom, after sense
+and consciousness were extinct, life had been protracted, with
+stertorous breathing, for many days.
+
+In such subjects the countenance, the lips, and the whole skin,
+give evidence during life of blood pushed beyond the natural sphere
+of the circulation, and detained in the extreme blood-vessels.
+Hence it is obvious that the causes which have loaded and distended
+the capillaries in every part of the body have had a like influence
+upon the vasa vasorum.
+
+I do not mean to say that I never met with this peculiar condition
+of the heart and arteries under other circumstances, or that
+other causes may not produce it; but that I am not acquainted
+with it under any other with which, from frequent coincidence, it
+has seemed to have a natural connexion, or which have afforded a
+reasonable explanation of the phenomenon.
+
+This condition of the heart and arteries, considered as
+inflammation, has been assigned by some as the cause of fevers
+of the more malignant kind. The frequency with which it has been
+found in some particular epidemic, must have led to the conclusion.
+But, however this may be, from my own observation, not restricting
+myself to the fever of any particular season, but taking into
+account all complaints called febrile, and belonging to all
+seasons, also from the result of inquiry among medical men who
+have had large acquaintance with morbid dissections, and from the
+experience of those who have made this particular point a subject
+of investigation (Laënnec and Andral) I venture to conclude that it
+has no essential connexion with fevers of any kind, either as cause
+or as effect.
+
+On some occasions the internal membrane of the heart and arteries,
+wherever it exhibits the appearance described, will allow itself to
+be peeled off from the subjacent structure with the least possible
+force; this facility of separation ceasing entirely beyond the
+boundary of the red tinge.
+
+Here unquestionably is further evidence of a diseased condition:
+but of what nature? Most pathologists would consider this to be of
+the nature of inflammation--and I believe justly.
+
+There is indeed much difficulty in pronouncing upon the nature of
+minuter changes of structure detected in the internal parts of the
+body after death. We are obliged to arrive at conclusions by help
+of analogies drawn from morbid processes, which we have watched in
+their progress during life, upon the external surfaces; for during
+life we have the functions and sensibilities of the part to aid us
+in forming a right judgment concerning its disease. When, during
+life, one tissue is separated from another, as the periosteum from
+the bone, or the cuticle from the skin, or the mutual cohesion
+between different tissues is sensibly weakened, we find it to be
+owing to the intervention of serous fluid which does not belong to
+their healthy state; and this, together with increased vascularity,
+or redness and heat, and pain, is enough to bespeak the presence
+of inflammation. All these conditions cannot remain after death.
+Hence, if we desire to form positive opinions concerning much
+which is unfolded by dissection, we must supply the defect by
+analogy. Thus, whenever, in any part of the heart or arteries,
+the cohesion between the internal membrane and the subjacent
+structure is manifestly lessened, and the membrane is unusually red
+at that part, we may regard these appearances as the vestiges of
+inflammation, without thinking that we go too far in so regarding
+them.
+
+The internal lining of the heart and arteries is often found red
+solely in the neighbourhood of ulcerated spaces, when there can be
+no doubt concerning the existence of inflammatory action.
+
+But the internal lining of the heart and arteries gives the most
+unequivocal evidence of its inflammation when it is found of a deep
+red colour, with coagulable lymph adhering to its surface. This
+condition is represented, as it was found in the aorta, in one of
+the beautiful plates, illustrative of the diseases of arteries, by
+Mr. Hodgson[3]. And the same condition, in the heart, I have seen
+in a preparation of Dr. Farre's, where lymph is deposited, upon the
+circular zone, which forms the aperture of communication between
+the left auricle and ventricle. These appearances denote the most
+acute inflammation: they are, I suspect, very rarely met with. In
+the few instances in which I have heard of them, they have been
+found where death has taken place after short and severe suffering,
+and with symptoms which characterize inflammation.
+
+But the specimens of disease most frequently met with in the
+internal lining of the heart, consist in an entire change of its
+natural structure, and in the formation of new products upon it or
+within it. Many of these, from the analogy of morbid actions in
+other parts of the body, must be considered to result from chronic
+inflammation.
+
+In any of those situations which have been stated as especially
+liable to disease, the membrane will become thick, tough,
+inelastic, puckered and shrivelled; and cartilage or gristle, and
+bone, will enter into its structure; excrescences will sprout out
+from it, resembling warts and fungus; and it will become ruptured
+and ulcerated.
+
+Cartilaginous depositions are often found beneath the membrane
+where it is single; or between its folds where it is double, in
+the situation of the valves; and thus they seem rather to belong
+to some structure contiguous to the membrane than to the membrane
+itself. Such depositions will proceed to a considerable extent,
+while the membrane still remains free from disease. From a valve,
+which has been thick, opaque, and cartilaginous, I have seen the
+membrane separated on both sides, and transparent; the opaque and
+cartilaginous matter being left behind. Where, in cartilaginous
+depositions, the lining of the heart has become puckered and
+uneven on its surface, and the valves shortened and altered in
+their shape, the membrane itself participates in the disease,
+and is generally incapable of being separated from the subjacent
+structure. But great thickening may take place in the situation of
+the valves, from deposition of cartilage, without any unevenness
+of their surface or alteration of their shape; and under these
+circumstances the membrane itself you may expect to find hitherto
+exempt from disease[4].
+
+Osseous depositions are always, I believe, originally formed
+beneath, or exterior to, the membrane, both in the heart and in
+the arteries. There are two circumstances especially worthy of
+remark in this process of ossification: sometimes it is a pure and
+unmixed process: bone is formed, and nothing else. It is deposited
+in minute granules, or little brittle scales, or in plates of a
+larger size; and the intermediate spaces, whether in the heart or
+arteries, preserve their natural and healthy appearance. At first,
+these granules or scales, or plates of pure bone, are covered by a
+delicate pellicle, which is in fact the internal membrane of the
+heart or artery, separating them from the immediate contact of the
+circulating blood. But in process of time, as they increase in
+size, and become rough and unequal on their surface, they cause a
+rupture of the internal membrane, and have now nothing to separate
+them from the immediate contact of the blood[5].
+
+Sometimes ossification is a mixed process, or rather, I suspect,
+the result of another morbid process preceding it. With the
+cartilaginous depositions already described there is an admixture
+of bone. The quantity of bone generally bears a very small
+proportion to the cartilage when they both occur together, as if
+the bone proceeded from the cartilage, and not the cartilage from
+the bone. It is sometimes seen growing from the surface of the
+cartilage, and is sometimes deposited in its substance, and only
+detected by the knife.
+
+Simple ossification, as it occurs in the heart and arteries, has
+been classed among the natural changes which the parts in question
+are liable to undergo after a certain period of life. Of persons
+above the age of sixty years the proportion is that of seven in ten
+according to Bichât, in which ossification is discovered in some
+part of the arterial system. It very rarely happens that simple
+ossification is found before the period of old age: still it is
+difficult not to regard it as a morbid process.
+
+But ossification, when it is a mixed process, is unquestionably
+the result of disease. It is met with at all periods of life; and
+probably constitutes one of the terminations of inflammation. The
+kind of morbid structures with which the bone is united leads to
+this belief.
+
+Fungous, and wart-like excrescences, are found in all those parts
+of the internal lining of the heart, which have been already
+mentioned as most subject to disease. They seem to be the result
+of a new morbid action set up in parts already disorganized; for
+I have not met with them where the membrane has been otherwise
+healthy, but only where it has been thickened or cartilaginous, or
+ossified, ruptured, or ulcerated. They grow either from the surface
+of the membrane, or from its ruptured or ulcerated edges, and are
+always in immediate contact with the circulating blood[6].
+
+According to my observation, when a fungous or warty excrescence
+has grown from the ruptured edges of the membrane, it has been from
+them exclusively, and from no other part of the lining of the same
+heart. And as rupture of the membrane seldom occurs in more than
+one situation at a time, the heart of the same individual seldom
+presents more than one excrescence of this kind: and as the aortic
+valves are the parts most liable to rupture, it is there that this
+single excrescence is most frequently found; not that rupture may
+not take place elsewhere. I once saw a single _chorda tendinea_
+ruptured; and a single fungous excrescence of considerable size
+hanging from it into the cavity of the left ventricle.
+
+Now, this morbid growth is evidently connected with the lacerated
+state of the membrane in the conditions of its production, whereby
+it is limited to a small space.
+
+It is probable that the membrane is first ruptured; that its
+lacerated edges inflame, and then throw out unhealthy lymph, or
+unhealthy granulations, in the shape of these fungous or wart-like
+excrescences. When they have sprung from a ruptured membrane, they
+have, in the specimens which I have examined, been larger than when
+they have arisen under other conditions.
+
+But when such excrescences grow from the surface of the membrane
+which is thickened and cartilaginous only, but not lacerated, they
+are more apt to occur in many parts of it at the same time. I have
+seen the valvular apparatus between the auricles and ventricles on
+both sides, as well as the aortic valves of the same heart, studded
+with them. They were all about the size of hemp seeds: they adhered
+to the membrane with different degrees of tenacity, and wherever
+they were capable of being detached, they left a rough surface.
+The lining of the arteries has been known to give origin to morbid
+growths of the same kind, which have obstructed the passage of
+blood, and given occasion to the formation of a coagulum, which has
+obliterated the pulse.
+
+The internal lining of the heart is liable to ulceration, not as
+a common consequence of simple inflammation, but as an occasional
+consequence of some of those diseased conditions which have been
+described.
+
+It is most commonly found around scales and spiculæ of bone, and
+under such circumstances as to leave no doubt that the bone itself
+has furnished the source of irritation from which it springs. The
+ulceration commences from the very border of the bony scale, as if
+it was a process of nature for detaching it, and to a considerable
+distance around the ulceration the membrane is reddened, and easily
+detached from the subjacent structure. Where there are several
+distinct scales of bone, it is not uncommon to find a circle of
+ulceration around each of them.
+
+Ulceration is also met with where there is a thickened and
+cartilaginous state of the membrane without ossification. Under
+these circumstances, as far as I know, it affects no definite form.
+It is often a very destructive process of disease, obliterating
+large portions of the valvular structure, and penetrating deep into
+the muscular substance of the heart.
+
+Rupture of the internal lining of the heart is not easily
+distinguished from ulceration. In collections of morbid anatomy,
+many unquestionable specimens of ulceration are described as
+specimens of rupture. Rupture must always be looked for in the
+valvular apparatus of the heart, _i. e._ in the valves themselves,
+or in the chordæ tendineæ which are their appendages. It is
+probably incapable of taking place elsewhere, except as a part of a
+rupture, which involves the whole organ.
+
+That solution of continuity which is evidently without loss of
+substance; that of which the separated edges when they are brought
+together are completely adapted to each other; also that which
+is unaccompanied by any thickening or other morbid condition of
+the valve; the solution of continuity which is found under these
+circumstances, may safely be considered to proceed from rupture,
+and not from ulceration[7].
+
+But it is probable that these characteristic conditions do not long
+remain after the occurrence of the rupture. Complete specimens of
+them are very rare; but specimens are numerous where the solution
+of continuity, by its form and direction, bespeaks rupture, while
+its rounded edges and the general thickening of the valve denote
+ulceration. These, it may be fairly conjectured, do in fact exhibit
+a compound of both. The membrane was originally ruptured, but
+disease has subsequently arisen and obscured the character of the
+mechanical injury.
+
+The greater number of those concretions, which were regarded by
+the older anatomists as polypi of the heart, were unquestionably
+portions of mere blood, which had undergone coagulation after
+death. The blood remaining in the heart after death discharges
+itself of its colouring matter as it coagulates, and, giving off
+processes between the muscular fasciculi, assumes a shape which has
+suggested the name of polypus[8].
+
+I have often found (I presume, therefore, that it is not an
+uncommon occurrence) coagula of an irregularly laminated texture
+having their colouring matter not entirely discharged, but
+unequally distributed through them, which have been most intimately
+adherent to some part of the lining of the heart. Of these some
+have admitted of separation, while the surface of the membrane and
+the surface of the clot were left rough at the place of contact,
+and others were incapable of being detached without the membrane
+being detached along with them. The appendix of the left auricle is
+a situation in which they are apt to occur, and they are generally
+accompanied by an extensively diseased condition of the lining
+membrane. These coagula, from their laminated texture, and from
+the intimacy of their union with the internal lining, seem to be
+essentially different from polypi of the heart. They appear to be
+connected with a process of disease in the membrane, and to have
+obtained their union with it long before the death of the patient.
+
+I once saw two separate tumors, entirely resembling what are called
+polypi, between the carneæ columnæ of the left ventricle, and
+firmly adherent to the heart; and in the centre of each a distinct
+formation of pus. The heart was otherwise healthy[9].
+
+There are three preparations in the museum of the College of
+Surgeons, put up by Mr. Hunter himself, and noted by him as
+exhibiting "Tumors on the inner surface of the right ventricle,
+seemingly composed of layers of coagulable lymph one upon another,
+the central part having the appearance of glary mucus." This last
+appearance (the mucus) no longer remains in any of the three, but
+in its stead there is a cavity. The tumors which I have mentioned
+as originally containing in their centre a distinct formation
+of pus, also now present in its stead a cavity. The preparation
+preserved at St. Bartholomew's, and those at the College of
+Surgeons, are probably specimens of the same disease.
+
+Here what in the recent parts seemed to be pus or glary mucus, and
+the cavities still remaining in the preparations, must suggest the
+suspicion, that these tumors, whether they grew from the surface or
+were deposited from the blood, had become organized, and afterwards
+inflamed; and that the inflammation had terminated in the formation
+of an abscess.
+
+
+
+
+ESSAY III.
+
+_Morbid Anatomy of the Muscular Substance of the Heart._
+
+Dr. Baillie, speaking of inflammation of the substance of the
+heart, says, "When the pericardium covering its surface is
+inflamed, the inflammation sometimes passes a little way into
+the substance of the heart:" and then he gives these as the
+characteristic marks of such inflammation--that "it (the substance
+of the heart) becomes much more crowded with small vessels than in
+its natural state, and there are sometimes to be seen a few spots
+of extravasated blood." Now, this undue vascularity, and these few
+extravasated spots, where inflammation unquestionably belongs to
+a contiguous structure, may be deemed sufficient evidence of the
+muscular substance of the heart participating, or beginning to
+participate, in the same disease; but, absolutely and exclusively,
+it may be doubted whether more is not required to give a certain
+assurance of its inflammation. Here, as elsewhere, we must look
+for some of the proper products of inflammation; or for some of
+the permanent changes of texture which naturally result from it,
+according to its several modes of disorganizing.
+
+It is a very rare event to find pus among the products of
+inflammation of the substance of the heart: yet this event has
+occurred twice to my observation. In one instance the whole heart
+was deeply tinged with dark-coloured blood, and its substance
+softened; and here and there, upon the section of both ventricles,
+innumerable small points of pus oozed from among the muscular
+fibres. This was the result of a most rapid and acute inflammation,
+in which death took place after an illness of only two days. In
+another instance, after death, which terminated an illness of
+long duration and characterized by symptoms referable to the
+heart, a distinct abscess was found in the substance of the left
+ventricle, closed externally by a portion of adherent pericardium,
+and connected internally with an ossified portion of the lining
+membrane.
+
+This diffusion of pus, or rather its formation in innumerable
+separate points, throughout the muscular structure of the heart, by
+a rapid and acute inflammation, is a singular occurrence. No such
+case has ever fallen within the knowledge of the most experienced
+in morbid anatomy, of whom I have made inquiry; neither has any
+such (as far as I can learn) been recorded in books[10].
+
+A single collection of pus[11], constituting an ulcer or abscess of
+the heart, and resulting from chronic inflammation, is also a rare
+occurrence, yet not so rare but that a specimen of it may be found
+in most collections of morbid anatomy[12].
+
+But independent of the formation of pus, softening and attenuation,
+as well as induration and thickening of the muscular substance of
+the heart, do, in different cases, according to the circumstances
+under which they are found, both bespeak inflammation.
+
+Together with the unequivocal evidence of inflammation in other
+parts of the heart, the muscular fibres have at the same time been
+found very soft and loose, and easily torn; and with this looseness
+of texture the heart has sometimes presented a dark and almost
+black appearance, and sometimes it has been almost blanched and
+colourless. The deep dark tinge shews that the muscular substance
+is unnaturally loaded with blood; whereas the absence of colour
+shews that it is destitute of its natural quantity. These different
+appearances do, in fact, belong to different stages of the same
+disease. The first indicates inflammation of the muscular substance
+in its present state of activity; the second, an irreparable
+disorganization of the muscular substance left by inflammation,
+when it has been unarrested in its earliest stages. The first is
+found when death takes place _in a few days after_ the accession
+of the disease; the second, when the patient survives the first
+attack, and dies at a remoter period.
+
+The inflammation, which produces softening and attenuation of the
+muscular structure, is, I believe, always of an acute kind.
+
+But induration and thickening of the muscular substance of
+the heart is also the result of inflammation. This must be
+distinguished from hypertrophy, or mere augmentation of bulk, of
+which we shall speak hereafter. In this induration, which proceeds
+from inflammation, there is, besides increase of bulk and firmness,
+a manifest alteration of texture. A substance[13] is produced
+offering a peculiar resistance to the knife. This condition
+unquestionably must result from an interstitial deposition of new
+matter among the muscular fibres. From concomitant circumstances,
+as well as from its own character, I presume that it proceeds
+from chronic, not from acute inflammation. I confess that I never
+saw a specimen of what I now allude to. It is described with some
+minuteness by Corvisart; but it may be presumed to be very rare,
+since Laënnec admits that it never fell under his observation.
+
+These opposite states of softening and attenuation in one case, and
+induration and thickening in another, are known to those conversant
+with morbid dissection as the evidences of inflammation in other
+parts of the body besides the muscular substance of the heart.
+
+But there are changes of structure incident to the muscular
+substance of the heart which are independent upon inflammation,
+or, perhaps, upon any process which can properly be called morbid.
+They consist of simple augmentation and simple diminution of bulk
+and consistence. This simple augmentation of bulk and consistence
+is owing exclusively to a more ample development of natural
+structure. The muscular substance is more red than natural, its
+carneæ columnæ are increased in thickness, and its proper fibrous
+texture is every where more strikingly manifest; but there is no
+interstitial deposition of matter new in its kind. It has been
+called hypertrophia of the heart, and the name conveys a tolerably
+just idea of its actual condition.
+
+The simple diminution of bulk and consistence is a condition the
+exact opposite of the former. The muscular substance is less red
+than natural; its proper fibrous texture less distinguishable; but
+there is still the appearance of muscle shrunk and withered, as
+if from an insufficient supply of nourishment. It may be called
+atrophia of the heart.
+
+Conjoined with augmentation, as well as with diminution of strength
+and bulk in the walls of the heart, there is almost always an
+increase in the capacity of its cavities; and in whichsoever part
+of the heart the walls are thus augmented or diminished, it is the
+cavity appertaining to the same part which undergoes the increase
+of capacity. Hence it appears either that one of these conditions
+is the immediate and necessary consequence of the other, or that
+both are the simultaneous effects of the same causes.
+
+Dilatation of any cavity of the heart, with thickening of its
+walls, is called _active dilatation_; and dilatation of any cavity,
+with attenuation, is called _passive_[14].
+
+Active dilatation may appertain to every cavity of the heart
+simultaneously; and so may passive dilatation. But such occurrences
+are very rare: for one cavity being naturally more liable to this
+species of dilatation, and another to that, it most frequently
+happens that specimens of both conditions are found in the
+different cavities of the same heart.
+
+The left ventricle is much more liable to active dilatation than
+the right; and the right ventricle more so than either of the
+auricles; and of the auricles unquestionably the left. Upon the
+whole, perhaps, the fact may be truly stated thus--that the left
+ventricle commonly gains an increase of bulk and strength, with an
+increase of capacity; and that all the other cavities, at the time
+that they expand, are rather apt to become attenuated.
+
+It sometimes (though rarely) happens, that, with an increase of
+strength and bulk in its muscular structure, the left ventricle
+suffers a diminution of capacity in its cavity. In a case reported
+by Laënnec, the left ventricle was an inch and a half thick at
+its broadest, and an inch thick at its thinnest part; and yet its
+cavity was only capable of containing an unblanched almond. I have
+seen the same condition in a less degree.--(_Laënnec_, vol. ii.
+698.)
+
+The circumstances under which these opposite conditions, this
+hypertrophy and atrophy of the heart, with the enlargement or
+diminution of its cavities, arise, must be explained hereafter. At
+present I would only remark that they are often found conjoined
+with actual disease in other structures of the heart, such as
+osseous or cartilaginous thickening of internal lining, adhesion
+of the pericardium, and ossification of the coronary arteries, to
+which they owe their origin; and, moreover, that they are often
+found where the heart is otherwise perfectly sound in texture, and
+where their cause must be sought in other parts of the body.
+
+The heart is liable to undergo a simple dilatation of its cavities
+without either thickening or attenuation of its muscular substance.
+This simple dilatation is sometimes of the whole organ, sometimes
+of one side, and sometimes only of one auricle or ventricle. When
+it is of one cavity only, it may be complicated with active or
+passive dilatation of another, or of all the rest.
+
+There is reason to believe that the heart sometimes undergoes a
+temporary dilatation, and again returns to its natural capacity;
+but that the dilatation can only subsist for a short time without
+becoming permanent.
+
+The power of thus enlarging its cavities, and restoring them to
+their natural condition, belongs more especially to the right side
+of the heart.
+
+A large accumulation of fat is sometimes met with about the heart.
+
+The healthy heart is always more or less marked upon its external
+surface with streaks of white, and this appearance results from
+the deposition of fat in the cellular texture, which unites the
+serous covering with the subjacent muscular structure. It is found
+principally where the venæ cavæ unite to form the right auricle;
+also at the base of the ventricles, and along the line which
+marks the boundary between the two, and around the origin of the
+great blood-vessels as they emerge from the heart. But when fat
+is deposited in more than these situations, and in more than the
+natural quantity, it is not so much added to the healthy substance
+of the heart, as existing at its expense and detriment, and the
+muscular structure is that which especially suffers. The fibre
+of the fat heart is pale and wasted, like that of a paralytic
+limb.--_Mus. of the Coll. of Surg._ 327.
+
+A rupture of the heart is sometimes met with; but all the cases of
+reputed rupture are not such in reality. An aperture in the walls
+of the heart, through which blood escapes into the cavity of the
+pericardium, may result from ulceration as well as from rupture,
+or from a mixed process of one and the other; but whatever be the
+precise nature of the process by which this perforation of the
+heart is effected, it is undoubtedly of rare occurrence.
+
+Where it has been found, there has generally been at the same time
+some peculiar condition of the organ, which might be presumed
+favourable to its production. Its muscular substance has been
+so soft and loose of texture, that it could be pierced through
+by the weight of a probe[15]; or it has been converted into, or
+greatly intermixed with fat[16]; or its muscular fibres have been
+absolutely defective, leaving a certain transparent space, where
+the internal lining and the pericardium have been in contact,
+and served to maintain the completeness of the cavity, until the
+rupture has taken place[17].
+
+Not that a rupture has not been found where the texture of
+the parts has seemed to offer no natural facilities to its
+occurrence--as in the case related by Harvey himself, who found a
+lacerated aperture in the left ventricle, capable of admitting his
+finger, through which blood had escaped into the pericardium, the
+walls of the ventricle being increased in thickness and strength,
+while an obstacle existed at the entrance of the aorta[18]. Here
+the heart must have torn itself asunder by the simple violence of
+its contraction, in contending against the impediment to the egress
+of blood from its cavity. This is an effect which would hardly be
+thought capable of being thus produced; but I can well believe it
+possible after having seen one of the recti muscles of the abdomen
+literally torn in twain, in a man who died of tetanus[19].
+
+[To be continued.]
+
+
+
+
+DILATED ŒSOPHAGUS.
+
+
+_To the Editor of the London Medical Gazette._
+
+  SIR,
+
+Permit me to send the following case to you for insertion in the
+Gazette.
+
+
+Mary Blores, æt. 33, was admitted into the Middlesex Hospital on
+the 16th of November. She was in a state of extreme feebleness and
+emaciation. Those who brought her said that during the preceding
+month she had appeared to swallow nothing: what she took as food
+seemed to her to stop in the gullet, and after a few minutes
+returned. I found, however, that a large œsophagus-bougie passed
+readily into the stomach, meeting with no obstruction beyond a
+spasmodic resistance in the pharynx. A draught of milk and water
+was given her--she swallowed it without much effort, but it quickly
+returned. In the course of the afternoon a pint of beef tea was
+injected through an elastic tube into the stomach--it was thrown up
+directly.
+
+I now learnt from her that she could swallow liquids much more
+readily than solid food; that when she took a small quantity,
+it seemed to her not to reach the stomach, and in three or four
+minutes was invariably thrown up; that on taking a large draught
+she had an impression that it reached the stomach--in this case
+vomiting did not follow so soon, and some part of the draught was
+permanently retained; that she craved food and drink, and was
+literally dying of hunger and thirst; that the vomiting which took
+place was not preceded by nausea, although in its progress it had
+all the appearance of ordinary retching; that the matter vomited
+was not thrown up at once, but by successive efforts; it consisted
+of the food she had last taken, mixed with colourless mucus. The
+belly was so shrunk that the umbilicus was not more than an inch
+distant from the spine, upon which the pulsations of the aorta
+were readily felt: there was no enlargement or hardness about the
+stomach, no particular tenderness on pressing the epigastrium, no
+sensation of pain or heat now or formerly.
+
+The complaint had began ten years ago, during pregnancy, since when
+she had never been free from it, although at times her sufferings
+had been less, and she had been able to retain some portion of her
+meals. She had borne in this period three children; the vomiting
+had lasted during the whole period of her pregnancies, and during
+her confinement. The principal remedies which had been used for her
+relief were a succession of blisters on the pit of the stomach--but
+they had produced no benefit. Latterly her symptoms had been
+greatly aggravated.
+
+This patient was attended by Dr. Watson and myself. But the means
+which we tried to enable her to retain her food, and to support her
+expiring strength, had scarcely a temporary effect. She died on the
+2d Dec. sixteen days after her admission. The body was carefully
+examined, at the expressed wish of her relatives.
+
+The unusual appearances found in the abdomen were--1. the smallness
+of the first part of the duodenum, which was but half the ordinary
+size of the ileum; 2. the capaciousness and fulness of the gall
+bladder,--from which, however, on compressing it, the bile flowed
+readily into the intestine; 3. a contraction of the middle of
+the stomach of the length of two inches, for which extent the
+peritoneal coat was thickened and opaque, and the inner membranes
+folded in deep longitudinal rugæ, the mucous surface of which was
+partially suffused with circular spots of red. The breadth of the
+contracted part of the stomach, as it lay collapsed, was an inch
+and a half.
+
+[Illustration]
+
+[Illustration]
+
+But it was in the chest that the most remarkable circumstance
+presented itself. The œsophagus gradually enlarged from the
+pharynx, which was perhaps rather narrower than usual, to an
+extraordinary degree of dilatation; the greatest breadth which it
+attained was situated about four inches above the cardia: the tube
+then contracted more abruptly, so as to render the termination
+of the œsophagus, like its commencement, of nearly the usual
+dimensions. The structure likewise of the cardiac extremity for
+about an inch, and of the pharyngeal end for about half an inch,
+was healthy. The intermediate part presented, when inverted, the
+following curious appearance:--The inner membrane was thickened
+and opaque, and had _the appearance_ of having partially yielded
+from dilatation; at the upper part the furrows or thinner parts of
+the membrane followed in some degree a longitudinal direction; at
+the lower part the surface was pitted with shallow depressions of
+various figures. I have represented in the adjoined sketches these
+appearances, which on the middle of the œsophagus passed from one
+into the other; at the furrows or depressions the membrane seemed
+of the natural thickness and colour; the intermediate raised and
+thickened part was opaque and whitish. The muscular fibres of the
+œsophagus were of the natural colour and thickness.
+
+  I remain, Mr. Editor,
+  Your obedient servant,
+
+  HERBERT MAYO.
+
+  19, George-street, Hanover-square,
+  Dec. 6, 1828.
+
+
+
+
+HYDROPHOBIA.
+
+
+_To the Editor of the London Medical Gazette._
+
+  SIR,
+
+As the following case may throw some additional light on the
+pathology of hydrophobia, I have sent it you for publication.
+
+  I am, Sir,
+  Your obedient servant,
+
+  F. GODRICH.
+
+  Grove House, Little Chelsea,
+  Nov. 29, 1828.
+
+
+On Thursday morning, the 25th ult. I was called up about seven
+o'clock to see a man who I understood was exceedingly ill, and
+waiting in the surgery very impatiently for my arrival. I found
+my patient (Mr. Barham), a fine looking old man, about 60,
+labouring at intervals of about five minutes under strong spasmodic
+paroxysms, affecting the muscles concerned in breathing and
+deglutition. There was a wildness and an impatience depicted in his
+countenance, totally different from any thing I had ever observed
+in other spasmodic affections. His bowels were open, tongue clean,
+skin moist, pulse full and a little accelerated. I took away
+twenty ounces of blood, and prescribed a mixture containing ʒss.
+of laudanum for a dose every hour until I should see him again.
+He walked home half a mile from my house (Gloucester Road, Old
+Brompton), and left me ruminating on the possible cause of so much
+mischief occurring suddenly in a fine healthy subject. At ten a
+message was sent, saying that he was much worse, and requesting
+me to call as soon as possible. He received me tranquilly, and
+said he was very glad that I had come to see him, for he was very
+ill. His symptoms were now more distressing than when I first saw
+him: he looked wildly and suspiciously at every one entering his
+apartment, and his breathing was accompanied by a short convulsive
+sobbing. On looking at his medicine I perceived he had taken none,
+and expressing my surprise, he assured me it was impossible for
+him to swallow a single drop, as the attempt had been followed
+by violent spasms, and produced so much distress, that he had
+desisted. At this period no one had the slightest idea of the
+origin of his malady. I poured out some medicine into a tea-cup,
+the very act of which produced much excitement and alarm. My first
+impression as to the true nature of his disease arose at this
+period, from the circumstance of his requiring a tea-spoon, with
+which he endeavoured to take some of the medicine. The attempt
+produced much excitement and alarm, and after two or three painful
+efforts at deglutition, with one desperate effort he swallowed a
+tea-spoonful, threw away the spoon, and begged, unless I wished
+to destroy him, that he might have nothing more to swallow. I
+now left his room, and inquired of a bystander whether any thing
+particular had occurred to him within the last few weeks. On
+recollection she said, "About a month since, late at night, a
+strange dog came into the premises and fought with his own dog; he
+got out of bed to separate them, and the strange dog bit him in
+two places, on the left arm and hand; and bit a puppy, which died
+about a fortnight after in a strange way, which was thought to be
+some kind of a fit." To ascertain if this occurrence had produced
+any effect on his mind, while again bleeding him I said, "You have
+been in the wars, Sir, and had your hand and arm torn; how did
+it occur?"--"Oh!" said he, carelessly, "that was done by a dog a
+long time ago, but it healed." The circumstance was never again
+mentioned to him, and he died in total ignorance of the cause of
+his malady. The wounds were perfectly cicatrised, and there was not
+the least action going on indicative of recent absorption. He bore
+the bleeding pretty quietly: 40℥. were removed, which on cooling
+presented strong marks of inflammation.
+
+    Ordered ℳiv. Acid. Hydrocyan. omni horâ, in a little water.
+
+Twelve o'clock.--With much difficulty he has taken two doses of the
+acid; pulse full and hard, 110. 30℥. more blood were removed.
+
+Three o'clock.--Has taken two more doses; complains of a dreadful
+sense of suffocation, and implores that nothing more may be given
+him. Pulse full, and beating at 120 to 130. Continue the acid.
+
+Eight o'clock.--Pulse full and hard. Has taken in all 24ℳ. of the
+acid, but so painfully distressing has the deglutition now become,
+that all attempts at repeating his medicine are discontinued.
+
+    V. S. ad ℥xxx.
+
+During the bleeding he looked wildly at the basin, and begged
+that no more might be spilt (a drop or two had fallen), repeating
+frequently, in great agitation, as the blood was running, "Take
+care! take care!"
+
+Between two and three o'clock next morning my assistant (Mr.
+Davies) visited him. He found him tolerably passive, but observing
+every movement with intense anxiety. Pulse full and hard, face
+flushed, eyes denoting cerebral irritation. He had been at times
+outrageous. On its being intimated that bleeding was again
+necessary, a paroxysm came on more intense than any preceding,--and
+with great effort he submitted. As the blood flowed he became
+more and more alarmed, till at length he got quite unmanageable;
+he raged violently at his nephew, who was holding the basin, and
+ordered it peremptorily to be removed. 30 or 40℥. were taken
+away. It was found necessary to put on the straight waistcoat.
+About four o'clock Mr. Davies wished him to take some more of his
+medicine. He said, "I can take no more," and on reaching the bottle
+to put out a few drops, he became violently agitated, threw himself
+from side to side, and, as well as the incessant spasmodic sobbings
+would allow, he begged that not one more drop of any thing might be
+offered him, and that the bottle might be taken from his sight. He
+did not become tranquillized until its removal. He lingered on till
+ten A.M. in the same state, a few minutes before which he insisted
+on getting up, and walked a short way down his garden, returned,
+laid down on his bed, and died.
+
+Mr. Frederick Salmon, of Old Broad Street, and Mr. Wilson, of
+Chelsea, were kind enough to assist me in conducting the post
+mortem examination. On opening the chest, the heart was free from
+disease, with rather more water in the pericardium than natural;
+the lungs were completely gorged with grumous blood, and the pleura
+adherent on the right side. On removing the cranium, which was
+remarkably thin, and cutting the substance of the brain, numerous
+red spots presented themselves in the medullary portion; about a
+table-spoonful of water in each ventricle; the plexus choroides was
+turgid; the corpora, striata, thalami, and basis of the brain every
+where preternaturally injected; the cerebellum, crura cerebri, and
+cerebelli, in a high state of inflammation. On removing the spinous
+process of the vertebra, the whole cord was considerably inflamed;
+and opposite the two last cervical and dorsal vertebræ the cellular
+substance was studded with dark patches of coagulated blood, the
+theca vertebralis thickened, and the cord in an active state of
+inflammation. The larynx and pharynx bore not the slightest vestige
+of disease. The preparation of the cord is deposited in the museum
+of the London University.
+
+The post mortem examination of this case tends to prove the
+correctness of Professor Thompson's theory of the proximate cause
+and seat of this afflicting malady; and the plate accompanying a
+case recorded by him, in the 13th volume of the Med. Chir. Society,
+gives a faithful delineation of the state in which the spinal cord
+was found in this case.
+
+
+
+
+CASE OF LONG PROTRACTED CONSTIPATION.
+
+
+_To the Editors of the London Medical Gazette._
+
+  GENTLEMEN,
+
+Perhaps the following case may interest some of your readers, and
+if you think so, its insertion in your Journal will oblige
+
+  Your obedient and
+  humble servant,
+
+  S. D. BROUGHTON.
+
+  12, Great Marlborough Street,
+  Dec. 3, 1828.
+
+
+On Tuesday, Nov. 25, I was called upon at the St. George's and St.
+James's Dispensary to advise for an infant at the breast, of five
+months and fourteen days of age, that had not passed any fæces
+during six weeks up to the day before I saw it. After its birth
+it had no passage till the fifth day, and this had apparently
+been effected by the introduction of a bougie, and which was
+subsequently continued at intervals for a short time. The infant
+was otherwise healthy and strong at its birth, and remained so
+until it had gone about three weeks without any evacuation, when it
+was observed to be weak in the lower extremities; and at the period
+of my seeing it the legs were much fallen away in flesh, hanging
+flaccid and inert. Many aperient enemas and medicines had been
+given, and, as a last resource, one drop of the croton oil had been
+prescribed the preceding evening. The infant appeared to suffer
+from distention, and to be disposed to coma, and the croton oil had
+distressed it much some hours after it was given. The fæces could
+be felt blocking up the intestine, but the irritation of the finger
+produced no attempt at evacuation; very small pieces only having
+been brought away. Hot baths also had frequently been used some
+time ago.
+
+Considering the case as one of paralysis in the parts naturally
+employed to relieve the bowels, I recommended the suspension of
+all purgative remedies by the mouth, and a table-spoonful of the
+following injection to be substituted, and to be thrown up with
+three table-spoonfuls of thin gruel occasionally during the day, by
+means of a syringe.
+
+  ℞ Spir. Terebenth. ʒiij.
+  Træ Zinzib. ʒj.
+  Aquæ, ℥iss. M.
+
+The following liniment was also directed to be rubbed in frequently
+along the course of the spine.
+
+  ℞ Linimenti Saponis, ℥iss.
+  Liquor. Ammon. Comp. ℥ss. M.
+
+The result justified my expectations; for, during the night after
+this prescription, two injections having been given, some large
+and hard ash-coloured lumps came away, and these were shortly
+followed by a forcible spouting out of a continued stream of
+feculent dark liquid; a brisk diarrhœa having been kept up till
+the Saturday following. The infant's appetite is become voracious,
+its appearance lively and healthy, and its legs as firm and strong
+as is usual at such an age. Cold water is recommended to be dashed
+upon the loins, the liniment to be continued occasionally, moderate
+doses of magnesia and rhubarb to be given when required, and the
+turpentine injection to be used if any return of the complaint
+should be threatened.
+
+
+
+
+DISLOCATION OF THE PATELLA.
+
+
+_To the Editor of the London Medical Gazette._
+
+  SIR,
+
+Having seen a case of dislocation of the patella, reported by
+Mr. Mayo, in your Journal a few weeks since, in which there was
+experienced some difficulty in the reduction of the bone, I beg
+leave to send you the following, in case you may think it worth
+insertion.
+
+On Saturday last, I was called to a young woman who had dislocated
+the patella of the left knee joint outwards; the inner edge
+rested upon the outer surface of the external condyle, and was
+immoveably fixed, and caused great pain when touched. She says it
+was occasioned by her foot slipping backwards from one stair to
+another, and she immediately fell down.
+
+I commenced the reduction, as stated by Mr. Mayo, but I could only
+produce semiflexion, and that gave her great pain; insomuch that I
+was obliged to desist, and the patella remained in _statu quo_. But
+when the knee was thus semiflexed, I desired my assistant to extend
+the leg suddenly; and having my fingers on the patella at the time,
+and pressing it inwards, it immediately returned to its natural
+position.
+
+I must confess, sir, that I should have been afraid to have
+continued the flexion as described in Mr. Mayo's case, "by bending
+the knee to the utmost," fearing that the remedy might be worse
+than the disease, and the result proved that in this case it was
+not necessary.
+
+  I remain, Sir,
+  Your obedient servant,
+
+  P. M. HOSKINGS.
+
+  168, Fleet-Street,
+  Dec. 3d, 1828.
+
+
+
+
+VACCINATION.
+
+
+_To the Editor of the London Medical Gazette._
+
+  SIR,
+
+The mistake of the printer in substituting the word "every" for
+"even," in the paper on Vaccination (p. 40), so materially affects
+the sense of the passage, that I must request the favour of the
+following insertion:--
+
+"3d. That while the vaccine cicatrix retains even one distinct
+fovea or depression, the individual continues unsusceptible both of
+small pox and of re-vaccination; but that," &c.
+
+  I am, Sir,
+  Your obedient servant,
+
+  THOS. H. BURDER.
+
+  2, Brunswick Square, Dec. 15, 1828.
+
+
+
+
+SINGULAR BICEPS MUSCLE.
+
+
+_To the Editor of the London Medical Gazette._
+
+  SIR,
+
+The valuable paper communicated to your Journal, by Mr. Stanley,
+last week, has brought to my recollection a singular appearance of
+the parts in front of the shoulder-joint which I dissected about
+two years ago. It is a fact worth recording; and perhaps you will
+be kind enough to insert it in your next number.
+
+The circumstance was this--that in the right arm, instead of there
+being a biceps muscle having two origins, the one the shorter from
+the corocoid process, the other the longer from the upper part of
+the glenoid cavity of the scapula, there was simply a one-headed
+muscle arising from the corocoid process. I could find no tendon
+passing through the joint answering to the long head of the
+biceps, neither was there any appearance of a biceptical groove;
+the capsular ligament was, perhaps, thicker than it is found in
+ordinary cases.
+
+I knew nothing of this man during life, and am therefore unable to
+give any account of the use which he made of this arm.
+
+  I am, your obedient servant,
+  C. M. BURNETT.
+
+  House Surgeon's Apartments,
+  St. Bartholomew's Hospital, Dec. 8th.
+
+
+
+
+STETHOSCOPE.
+
+
+_To the Editors of the London Medical Gazette._
+
+  GENTLEMEN,
+
+As you did me the honour, on a former occasion, to publish some
+remarks in defence of _auscultation_, against its enemies and
+detractors, I trust you will permit me to say a few words in
+reference to a communication in a late number, from a gentleman
+who appears to be a friend of that method of diagnosis, but whose
+ignorance of the subject is likely to be more injurious to the
+cause than either open enmity or secret detraction. The case in
+question (page 780, vol. ii.) appears, from the dissection, to
+have been clearly _emphysema of the lungs_, as there stated; but
+I appeal to every one practically acquainted with the physical
+signs of diseases of the lungs, whether the results of the
+exploration with the stethoscope, as narrated in the case, were
+those pathognomonic of that disease? I say they were not only
+not pathognomonic of this affection, but they were actually
+incompatible with its existence. The same ignorance of the subject
+is shewn in relation to the disease of the heart, which, I boldly
+maintain, no one was justified in pronouncing to be _hypertrophy of
+the left ventricle_ from the stethoscopic indications stated in the
+case.
+
+It is just possible that the writer of the case may have made
+further explorations on which his diagnosis was founded; but if he
+had such in his case-book, it is equally unfortunate for the credit
+of the stethoscope and his own, that he suppressed them in his
+printed case.
+
+  I have the honour to be,
+  Gentlemen,
+  Your obedient servant,
+
+  A STETHOSCOPER.
+
+  Nov. 25, 1828.
+
+
+
+
+MECHANISM OF VOMITING.
+
+
+_To the Editor of the London Medical Gazette._
+
+  Glasgow University, Nov. 26, 1828.
+
+  SIR,
+
+Having lately perused, in the 35th Number of the Medical Gazette,
+some observations "on the mechanism of the act of vomiting," by
+Dr. Marshall Hall, in which, after controverting the different
+opinions which have been entertained by physiologists on this
+question, he endeavours to prove that vomiting is an effort, not
+of _inspiration_, but of _expiration_, and advances this opinion
+as having originated in himself, I beg, through the medium of
+your Journal, to refer that gentleman to Richerand's Physiology,
+where, on the subject of vomiting, page 70, he says, "Sometimes the
+action of the muscular fibres of the stomach is quite inverted;
+they contract from the pylorus towards the cardia; and this
+antiperistaltic motion, in which the contractions act with more
+force and rapidity, and in a manner decidedly convulsive, produces
+vomiting. The action of the abdominal muscles then connects itself
+with that of the stomach; the viscera are propelled upwards and
+backwards, by the contraction of the large muscles of the abdomen;
+_the diaphragm ascends towards the chest; if it descended, in
+contracting, the œsophagus that passes between its two crura would
+be compressed, and the expulsion of food through the cardia could
+not be effected_. It is also observed, _that during expiration
+only, any thing can pass from the stomach into the œsophagus_."
+Again, on respiration, page 147--"_In every effort of expiration_,
+as coughing and _vomiting_," &c. Here, then, we see that Dr. Hall's
+views, as far as regards vomiting being an effort of expiration,
+have long since been advanced by Richerand.
+
+The profession are certainly much indebted to Dr. Hall for his
+corroboration of these views; at the same time he should not have
+taken to himself the merit of having first suggested them.
+
+  Sir,
+  Your most obedient servant,
+
+  A SUBSCRIBER.
+
+
+
+
+CHARACTER OF THE LANCET.
+
+
+_To the Editor of the London Medical Gazette._
+
+  Dec. 19, 1828.
+
+  SIR,
+
+The events disclosed during the late trial in the Court of King's
+Bench, must fill every well-disposed mind with astonishment and
+horror. The moral aspect of the case is marked by every feature
+capable of exciting a sense of shame for our profession, and of
+sorrow for our kind. Can it be that a publication conducted in the
+spirit of the extracts produced at the late trial of Cooper against
+Wakley should be fostered and encouraged by a large proportion of
+the medical public? Is it indeed true that no feeling of loathing
+and disgust should have induced the purchasers of the Lancet to
+protest against its glaring injustice, its undisguised ferocity and
+malignity?
+
+I am not a reader of that work myself, and but for the disclosures
+recently made in our courts of justice, together with what I have
+learned from your own pages, I should know little about it. Some
+of its early numbers convinced me that it was a production not
+deserving of support, whatever ability there might be connected
+with it; subsequent events have amply justified this decision, and
+I now address these few hasty lines to you, to express my humble
+hope that all the respectable medical men throughout the kingdom
+will arise, and with one voice oppose this moral pestilence, which
+at once corrupts and degrades their profession.
+
+The _odium medicum_, bitter and vindictive as it unfortunately has
+been, never, I believe, appeared in a form so repulsive. Are we
+living in the nineteenth century? Have arts and sciences, which
+are asserted of old to soften the manners and temper the violence
+of our nature, produced no such fruits amongst us? Is serious, and
+perhaps irremediable injury, to be inflicted on reputation; and is
+the sufferer thereafter to be dared to mortal combat, and this too
+by the wrong-doer? Is it thus that professional justice is to be
+awarded? Is it thus that knowledge is to be advanced, the dignity
+of our profession to be maintained, its benefits enlarged, and
+its usefulness transmitted? Is it thus that the young men are to
+be taught how to acquire an unworthy and discreditable notoriety;
+to disregard all the decencies, charities, and higher virtues
+of life; and to bring into the exercise of our art the insidious
+cunning of the knave, the vulgar dishonesty of the pilferer, and
+the audacious bearing of the bravo?
+
+I know not how others may feel on the present occasion: I am
+entirely unacquainted with the parties who have been at issue in
+the late suit--I have no bias of any kind, but what must arise in
+the mind of every man who has any regard for the profession to
+which he belongs, or who loves truth and fair dealing--I am sure
+that it is not less for the interests of society at large than for
+the advancement of medical science, that just principles should
+regulate all our dealings, both with the public and with each
+other. It is manifest that of late we have signally and woefully
+departed from them; and it is most distressing to know that this
+departure has been sanctioned by so many members of the profession.
+I now entertain a confident hope that all who reflect on the
+character of the late libel will feel that their own _character_ is
+at stake if they do not mark their disapprobation of it in every
+possible way. Sure I am that, if the principles which guide the
+Lancet become generally acceptable, it will mark an æra of moral
+degradation which no surgical dexterity, no medical acquirements,
+however eminent, could possibly redeem.
+
+  VERITAS.
+
+
+
+
+DURATION OF HUMAN LIFE IN RUSSIA.
+
+
+Cases of longevity are not only much more common, but also more
+extraordinary in respect to a greater duration, in Russia than in
+any other part of Europe; thus, from the report of the holy synod,
+published in 1827, it appears that there were living in 1825, among
+those who professed the Greco-Russian religion throughout the
+empire, not fewer than 848 males who were 100 and more years old;
+among whom, 32 had passed the age of 120, 4 were between 125 and
+130, and 4 others between 130 and 135 years of age. Out of 606,881
+males who died in 1826, 2785 had passed the age of 90 years; 1432
+that of 95; and 818 that of 100. Among the latter, 38 were more
+than 115 years of age; 24 more than 120; 7 more than 125; and one
+was 160 years old at his death.
+
+
+
+
+MEDICAL GAZETTE.
+
+_Saturday, December 27, 1828._
+
+    "Licet omnibus, licet etiam mihi, dignitatem _Artis Medicæ_
+    tueri; potestas modo veniendi in publicum sit, dicendi
+    periculum non recuso."--CICERO.
+
+
+
+
+ANALYSIS OF WAKLEY'S DEFENCE ON THE LATE TRIAL.
+
+
+We last week presented our readers with a full[20] and, we trust,
+accurate account of the trial for libel, which has recently excited
+so much interest; and we offered some remarks of a general nature
+upon its result and tendency. We had purposed at the same time to
+subject Mr. Wakley's mode of conducting his cause to a critical
+investigation, but this we were prevented from doing by want of
+time and space. We thought it likely, too, that the Editor of the
+Lancet would have fairly met the question in his next publication,
+and himself put the facts of the case, at least, on record: instead
+of this, however, he has devoted his pages to compliments to
+himself, and scurrilous and absurd abuse of Sir James Scarlett,
+in which he informs us that in his opinion that gentleman is
+"prodigiously overrated even as a lawyer," and says many other
+things, which serve only to shew how dreadfully Wakley himself had
+smarted under his lash.
+
+We find the general opinion to correspond with that which we
+expressed last week--that the defendant had managed his cause in
+a very bungling manner; and the estimation in which he and his
+witnesses were held by Judge and Jury is apparent from the charge
+of the one, and decision of the other. Both, indeed, regarded the
+asseverations of his whole _family party_ as dust in the balance
+against the testimony of one single competent and honourable
+man--Mr. Callaway; for on his evidence the result obviously hinged.
+Our contemporary affects to look upon the verdict as a triumph on
+his part--so he would if the damages had been five hundred or a
+thousand pounds, for in truth he has nothing else for it; and with
+all our hearts we wish him many such victories.
+
+With regard to the amount of damages, we certainly should have been
+better pleased had it been larger; but we did not expect that it
+would--nay a reference to our number which was published while the
+trial was going on, will shew that we were even doubtful of the
+verdict, because we know how extremely difficult it is for a jury
+to comprehend such a complicated question--how easy for a knave to
+impose upon their ignorance by misrepresentation and falsehood. It
+is quite obvious that if the jury had believed one syllable of the
+evidence of Wakley's witnesses, they must have given the verdict
+in his favour. In a case like this, where _one individual only_,
+and he the plaintiff, can be fully aware of the difficulties which
+had to be overcome, it is almost impossible to bring evidence
+into a court of justice capable of satisfying the minds of twelve
+unprofessional men. From this circumstance alone it was that we
+expressed a doubtful opinion of the result. But besides all this,
+it is well known to all--_that one talesman might go determined to
+starve out the rest--that ten special jurymen might wish to give
+500l. and yet that, by the absurd constitution of the English law,
+their verdict might be thus controlled by one individual friendly
+to the defendant_.
+
+Most fortunately for the cause of truth, Wakley had the vanity and
+folly to conduct the defence himself, and, judging of other men's
+estimation of moral character by his own, he did not hesitate to
+place in the box witnesses whom no counsel would have suffered to
+go there, and who, being unable to stand the cross-examination,
+led to what must have been to Wakley a most humiliating exposure.
+Next to this, the most beneficial effect produced was that of
+the defendant's cross-examination of his opponent's witnesses:
+it was amusingly absurd, and shewed a lamentable want of tact,
+always eliciting something which he ought to have avoided. Lastly
+came the reply, of which he tells us he is himself ashamed--"We
+may state most unfeignedly," says he, "that we look back with
+regret to our errors in point of omission." Nor is this the only
+part of it for which he has cause to blush, for any thing more
+miserably deficient we never heard: it was a mass of confusion
+throughout--a repetition of the same ideas and expressions--and a
+most injudicious betrayal of rancorous feeling, at the very moment
+he was profanely invoking heaven to witness that he bore enmity to
+no man. In speaking of his reply in our last number, we declared
+it to be "false in statement--sophistical in argument--coarse
+in language--and diabolical in tendency;" and we now proceed to
+illustrate these several qualifications, in doing which little more
+will be necessary than to select a few passages, and arrange them
+under their appropriate heads.
+
+_False in Statement._--One of Wakley's principal objects was to
+impress upon the Jury a belief that he had not in any way attempted
+to influence his witnesses, nor even spoken to most of them,
+anterior to the trial. "Out of nine witnesses I have placed in the
+box, (says he) I never saw five of them, nor even spoke to five
+of them till yesterday." We appeal to any man of common sense,
+whether it be probable that this is true. It is possible indeed,
+and only just possible, that he was contented with employing
+others to question his witnesses, and ascertain what evidence they
+would give; but even if it were so, the assertion was not the
+less false in a moral point of view, because his intention was
+to convey the belief that he had inquired no farther than merely
+whether or not the witnesses had been present at the operation.
+But incredible and absurd as this was, he ventured a step farther,
+and assigned a reason for the choice made of one witness--(Lee the
+potatoe-merchant.) "I had heard (said Wakley) he was present at the
+operation--an honest man, and that he was a friend of Mr. Bransby
+Cooper, under the highest obligation to the Cooper family. Without
+asking him a single question I put him into the box, as I was most
+anxious you should hear all the evidence that could be adduced, and
+from _unsuspected and untainted quarters_." This lie carried with
+it its own refutation; for Lee swore that he had never even spoken
+to Mr. Cooper; and we are therefore amazed that Wakley should
+have hazarded so gross an assertion, as it could only have been
+effective on the supposition of his addressing a jury of absolute
+simpletons. But again--"Who were my witnesses? not men whom I had
+trained and lectured on models, and sketches, and drawings. Has
+it been shewn to you that I was closeted with any person or set
+of persons?" Yes, Mr. Thomas Wakley, it has been shewn, and by no
+less an authority than that of your _fidus Achates_, Mr. James
+Lambert. "The defendant (says the worthy author of the libel), the
+defendant was there whilst I was explaining the parts to persons
+who were to be witnesses--_the defendant also explained them to
+the same persons_." And again, "I have heard explanations given to
+persons who were to be witnesses in this cause FOUR OR FIVE TIMES
+within the last six weeks." So also that excellent thorough-going
+witness, Mr. Jeffry Pearl: "a _gentleman_ of the name of Lambert
+introduced me to the defendant; THE DEFENDANT _and Mr. Lambert
+endeavoured to shew that the forceps had passed between the bladder
+and the rectum_." So much for placing men in the box because they
+are friends of Mr. Cooper--so much for procuring evidence from
+"untainted quarters!"
+
+This is only to be matched in effrontery by the statement of some
+wise-acre at the radical meeting on Tuesday night. Being asked why
+no notice had been taken in the Lancet of a successful operation of
+lithotomy performed by Mr. B. Cooper, soon after the publication
+of the libel, he assigned as the reason that Mr. Wakley thought it
+might increase the damages, and otherwise injure Mr. Cooper! What a
+noodle the man must be to expect any one to believe him[21]!
+
+Mr. Wakley asserted that the evidence of his witnesses remained
+"untouched--wholly uncontradicted;"--whereas there was scarcely a
+single point in their statements which was not contradicted either
+by Mr. Callaway, who was present at the operation, or Mr. Key and
+Dr. Hodgkin, who examined the parts after death. But what is more
+remarkable, there was scarcely a circumstance on which his own
+witnesses agreed--for example, they differed with regard to the
+nature and direction of the incisions; with regard to the manner
+and frequency of introducing the forceps; with regard to the number
+of instruments used, and the mode of applying them; with regard to
+the size of the wound; with regard to the degree of force employed,
+and with regard to the appearances after death. Yet, in the face
+of all this, Wakley had the impudence to tell the jury that his
+evidence remained "uncontradicted." We have no hesitation in
+asserting that his own witnesses (putting Mr. Cooper's out of the
+question) advanced no charge of which they did not also furnish the
+refutation.
+
+Mr. Wakley asserted that Mr. Cooper was incapable of telling why
+he could not extract the stone, even "while he had his finger in
+the bladder." This is false: neither Mr. Cooper nor Mr. Callaway
+were able to reach the bladder with the finger at all, owing to the
+depth of the perineum.
+
+Mr. Wakley told the jury that the plaintiff did not like the
+bladder to be exposed, "because to surgeons there is indisputable
+proof that Bransby Cooper did not perform that operation as he
+ought," and that "Mr. Key and Mr. Callaway knew it." This is false:
+Mr. Key, Mr. Callaway, and Dr. Hodgkin, who had examined the parts,
+all deposed that there was nothing in them indicative of the
+operation having been improperly performed. Indeed, had it been as
+Wakley asserted, the plaintiff would not have been so foolish as to
+have had the parts preserved at all.
+
+_Sophistical in argument._--One of the pieces of sophistry on
+which Wakley seems chiefly to have depended, inasmuch as he went
+over it _six times_ in the course of his speech, was, that if his
+account of the operation had been incorrect more of those who were
+present would have been brought forward to prove it so. But, as
+we stated in our last Number, to have objected to Wakley bringing
+forward pupils, on the ground of their being incompetent, and then
+to have done the same thing, would have been grossly inconsistent.
+Lord Tenterden, in his charge, said, "he did not see whom he (Mr.
+Cooper) could, with propriety, have called besides Mr. Callaway;
+the others were all young men, only pupils, and probably too young
+and inexperienced to form any judgment on the case that could
+be relied on." There is also another person who has objected to
+these witnesses whom we may mention--not, indeed, one for whose
+authority we have the highest possible respect, but of whom the
+defendant in this case probably thinks more favourably--we mean
+Mr. Thomas Wakley, who, speaking of the Letter formerly published
+by Mr. Cooper's pupils on the subject of this operation, says,
+"their united opinion of the skill, dexterity, and self-possession
+exhibited by Mr. Bransby Cooper on this occasion, is not likely to
+influence the judgment of the profession, whatever it may effect
+with the public."
+
+The use made by Wakley of Sir Astley Cooper's expression, "give
+him time," is another specimen of sophistry. Sir Astley evidently
+meant merely to say that, _ceteris paribus_, a man who had been
+twenty years surgeon to an Hospital would be more experienced than
+one who had held the situation but one-fourth of that period.
+This we believe to have been his sentiment, though nothing was
+ever less happily expressed. Accordingly it was not lost upon the
+defendant, who exclaimed, "Is that the way in which our hospitals
+are to be conducted? Is that the mode in which your poor patients
+are to be treated?--that young and inexperienced men are to be
+placed there to _learn their profession_--not to know it before
+they get there, but are to go there to learn it--and learn it
+upon whom?--upon individuals who are as much entitled to the
+best and most scientific practice of surgery as any nobleman in
+this land." All very fine--but we should be glad to know how or
+where a practical acquaintance with surgery is to be acquired
+but in public hospitals--and if no man is to be appointed till
+after he has gained experience, where are such men to come from?
+Where are ready-made surgeons to be found fit to operate even
+before Lambert, without his being able _to make a hole_ in their
+reputation?
+
+One of the most knavish attempts in the whole speech, to take
+advantage of the jury, was exhibited in his description of the
+operation. How different from the clear, perspicuous, and candid
+narrative of Sir James Scarlett. You are told, says Wakley, that
+the stone was shelved _above_ the pubes and _behind_ the pubes;
+but, continued he, (placing a pelvis in the position in which it is
+during the operation,) a stone cannot be lodged above the pubes,
+because, you see, the pubes is above the bladder! This was, indeed,
+calculated to confuse men unaccustomed to the subject, and who
+did not probably reflect that above and below are merely relative
+terms, which must change with every change of position, and that
+it was not meant that the stone was between the pubes and external
+integuments, which, in the position for lithotomy, would be the
+literal meaning of _above the pubes_, but that it was in such a
+situation as, in the ordinary position of the body, was above the
+pubes. But Wakley assured the jury that it was impossible for any
+stone to be _above_ the pubes, for there was a tendon to prevent it
+which no force could overcome; and he affected to ridicule the idea
+of there being anything unusual, any extraordinary shelf behind the
+pubes, in which the stone could have been lodged. "Had there been
+a shelf here," said he,--"had there been a crooked passage--had
+there been a cavity, or any place for the deposition of the stone,
+do you suppose that shelf would not have been produced? Had there
+been any thing particular in the formation of the pubes, would they
+not have cut out the man's bone as well as the bladder?" It is
+probably impossible for any but medical men to appreciate fully
+the impudent imposition--the fraud of this statement,--this knavish
+artifice to mislead the jury. No attempt was made in any part of
+Mr. Cooper's case to show that there was such malformation, or that
+the stone was in the position which Mr. Wakley demonstrated it
+could not occupy--_thus answering an argument which had never been
+advanced_.
+
+The following is a good specimen of sophistry and stupidity.
+Finding it proved that there was no opening between the bladder
+and rectum, Wakley wanted to make out that he never had said
+otherwise, having stated the cellular membrane to be _lacerable_,
+and therefore not _lacerated_. And then, forgetting the nature of
+his argument, immediately added, "remember this; the gorget is not
+as wide as the finger, and that it is not an uncommon thing for an
+unskilful operator to drive the gorget in between the bladder and
+rectum." Thus insinuating what had been proved to be false, and
+what he had just argued, from the words of the libel, he could not
+have meant.
+
+_Coarse in language._--This scarcely requires illustration. But as
+specimens, on the present occasion, of vulgar slang and miserable
+attempts at wit, we may mention his talking of "hole and corner"
+proceedings,--his comparing Sir James Scarlett to sour milk,
+and which happy thought he has, in hand-bills pasted about the
+town, converted into "Knight and Professor of Sour Milk,"--his
+explanation of the term _bat_ as applied to surgeons, "because
+they live in the dark, they suckle their young, and live in creaks
+and crevices of old walls, hospitals, and dungeons, _thriving and
+fattening on their own species_,"--his address to the "_gang_" of
+hospital surgeons, whom he represented as wading "through blood
+up to the neck,"--and lastly, his exclamations, several times
+repeated, perhaps with _prophetic_ phrenzy, that he "would die in
+a dungeon and expire in a ditch."
+
+_Diabolical in tendency._--The general tendency of Wakley's
+writings, and especially of his address to the Jury on this
+occasion, so far as such ravings can have any influence, is to sow
+distrust between men in every class of society and their medical
+attendants; to poison the sources of public charity, and arrest
+the hand of benevolence; to contract the relief afforded to human
+suffering, leading the poor and uninformed to suppose themselves
+the objects of cruel and wanton experiment, thus encouraging them
+rather to suffer disease to run its course than seek relief in such
+abodes of blood and horror as he most falsely represents our public
+hospitals to be.
+
+One of the first ebullitions of this demoniacal effort consisted
+in representing to the Jury, which he did in two different parts
+of his address, that the patient had been kept _bound_ during the
+operation, as if some unusual degree of coercion had been employed.
+"Yet, in opposition to the patient's cries--in opposition to his
+repeated entreaties to be unbound, still the operator kept him upon
+the table."--"Gentlemen," continued he, "I should like to know
+upon what principle it was that the man was kept _bound_ upon the
+table when he implored to be loosened. Was he not a free agent?"
+And then he goes on to put into Mr. Cooper's mouth not only words,
+but a sentiment he never uttered.--"No, no, (says the operator,)
+my _reputation_ is concerned. You were brought here to have the
+stone extracted, and extracted it shall and must be--_if you were
+to die upon the table_." Unless Wakley was intoxicated we cannot
+in any other manner account for an argument at once so absurd, so
+unprofessional, and so malignant. It evidently excited no feeling
+but that of disgust in the minds either of the Judge or the Jury.
+
+The next paragraph to which we shall allude is a masterpiece
+of hypocrisy--"Let me ask you (said he) what you have heard
+respecting the miseries of the individual on whom the operation was
+performed? Not one word has escaped the lips of the counsel on that
+subject--not one word from the mouth of one of the witnesses. No,
+gentlemen, they are hospital surgeons themselves, and they know too
+well what the practices of our hospitals are, and the sufferings
+_patients are in the habit of enduring at their hands_, to feel
+for this man, or for any other man placed in a similar situation!"
+Canting hypocrite! this from the man who in the very case before
+us published his account of the patient's sufferings in the form
+of a drama, mingled with low and scurrilous gibes. Mark also the
+following--"Give such a verdict as shall satisfy the _poor_--as
+will shew that men are not to go into offices of this sort where
+the _poor are to be killed_, and that they shall not be at liberty
+to wade and ride through blood up to their necks to eminence in
+their profession. Ah! gentlemen, give such a verdict as shall
+satisfy the _poor_!"
+
+There is in the various paragraphs we have quoted, more deep-rooted
+malice--more abandoned violation of the truth--more hypocrisy--and
+more open outrage of common sense, decency, and feeling, than we
+ever remember to have met with, even in the pages of the Lancet.
+It is now quite obvious that Wakley, alarmed at the change which
+has taken place in the estimation of his work within the last few
+months, finds it necessary to adopt a new system; he therefore
+throws off the mask, and openly declares himself the champion of
+the ignorant and illiterate[22]--conjuring up to their imaginations
+evils which do not exist--denouncing the medical profession as
+one of blood and murder--medical men as "thriving and fattening on
+their fellow-creatures"--and calling upon the "humane contributors
+to our hospitals and infirmaries" to support him.
+
+Why really now, if the times of political turbulence were to
+return, and radical reform again to come into vogue, Cobbett
+and Hunt would have a most valuable coadjutor; but as it is, we
+almost think the sphere he has chosen is too limited for such a
+genius. Humbug, to be successful, ought not to be very open to
+detection; alleged abuses ought not to be of a kind which every
+man can satisfy himself are entirely without foundation; and he
+who professes disinterested motives ought not to begin by raising
+a subscription for himself. We offer these few hints to Wakley, in
+hopes they may be of use to him in his new career; above all, we
+advise him to be sparing in protestations: there are some already
+who look upon his sincerity with a suspicious eye; for although
+it is no doubt true, that he would "rather die in a dungeon, and
+expire in a ditch," than injure any man, yet somehow an idea has
+got abroad, that his constant habits of lying and slandering are
+not quite in keeping with these assertions. Nay, we have heard
+of some even of the "humane contributors" to our charitable
+institutions, who have been so unreasonable as to disbelieve all
+Wakley's stories about the _cannibalism_ of hospital surgeons, and
+to look upon the whole system of the Lancet as one of knavery and
+imposition.
+
+
+
+
+WAKLEY'S SUBSCRIPTION MEETING.
+
+
+A most amusing scene took place at the Freemasons' Tavern on
+Tuesday evening, of which we subjoin an account. The object of
+the meeting was, "to present Mr. Wakley with some decided mark of
+their approval of his spirited conduct in his late trial;" or, in
+other words, if possible, to raise a little money, and bolster
+up the Lancet a little longer. The persons present were small in
+number, but great in zeal; and as much noise, hissing, laughter,
+and shouting, took place as would have done credit to a much larger
+assembly. As this is a merry season, and it may amuse our readers,
+we subjoin the speeches of the principal orators on either side:
+it will be perceived that both the Gazette and Lancet had some
+handsome compliments paid them; and that Wakley got thoroughly
+abused even by some of those who went to the meeting as the
+champions of reform. There was not a single individual present of
+any weight in the profession, and the chair was occupied by a young
+man wholly unknown, except as secretary to the meetings held two
+years ago on the subject of surgical reform. Could no one whose
+name might sound familiar in the public ear be prevailed upon to
+go?--could none be found but Pateys, Wallers, Mills, Elliots,
+Childs, and the Lord knows who? Where was he, the idol of the
+Lancet, who on other occasions graced the chair--where he who first
+ycleped that Journal the "invaluable"? Alas! poor Wakley, what an
+exposure of a sinking cause! even thy former friends tremble for
+their reputations, and desert thee.
+
+
+SURGICAL REFORM.
+
+A meeting was held yesterday evening at the Freemasons' Tavern, in
+pursuance of an advertisement calling on the "Friends of Surgical
+Reform, the Supporters of a free Medical Press, and the humane
+Contributors to our Hospitals and Infirmaries," to meet there,
+in order to adopt measures for presenting Mr. Wakley, the Editor
+of the Lancet, with some decided mark of their approval of his
+spirited conduct, in his late trial in the Court of King's Bench,
+at the suit of Mr. Bransby Cooper, and of the principles which he
+so powerfully advocated on that occasion.
+
+[Mr. Patey, who was called to the chair, stated the object of the
+meeting; but as his speech was rather long, and contained nothing
+of the least interest, we omit it.]
+
+_Mr. Waller_, in proposing the first resolution, adverted to the
+terms of the advertisement, and remarked that the question for
+them was not whether they would support Cooper against Wakley, or
+Wakley against Cooper; but whether they would have a free medical
+press or not--(cheers). Every body must admit that there was
+only one medical publication that was entitled to be considered
+free--only one that dared to tell the truth. Another had been
+attempted to be set up against it, but this wretched rival was
+gagged and manacled, and its reports were only a medium which
+distorted truth, and were almost unintelligible. It was not,
+however, to support any particular man, or publication, that he
+came to that meeting, but to support the general cause in which
+they were all interested. He concluded by moving, as the first
+resolution, that "the best interests of the medical profession and
+of the public are identified with the cause of medical and surgical
+reform; and that Mr. Wakley, as Editor of the Lancet, having given
+the first impulse to that cause, and having subsequently advocated
+it with undeviating firmness and fidelity, is entitled to the
+cordial thanks and support of this meeting."
+
+_Mr. Mills_ seconded the resolution.
+
+_Dr. Shiel_ said this was an important meeting, in his opinion;
+for, if this resolution were passed, it would identify the medical
+profession with the Editor of the Lancet. If the principle
+embodied in that resolution went forth to the world, it would be
+attended with consequences deeply injurious to the profession.
+He knew neither Mr. Bransby Cooper nor Sir Astley, and therefore
+he was perfectly impartial. The first question was, how far the
+medical press was conducted with advantage to medical science and
+the members of the profession. Now he contended, but with great
+respect, and disclaiming all personal hostility, that the Lancet
+had nowise contributed to the progress of medical science or the
+improvement of the profession--(loud hissing, and some cheers).
+He trusted that the meeting had not been got up by a few of the
+friends of Mr. Wakley, and he was sure that that gentleman was
+too respectable and too dignified in his proper person to need
+any such attempt--(applause). He trusted that the meeting was
+before the British public to ascertain how far the Lancet was
+useful or advantageous to medical science; and he hoped that,
+however partial the gentlemen present might be to Mr. Wakley, they
+would be governed in what they should do by the real interests of
+science--(hear, hear). The question was one of great interest; for
+it was one that embraced not only the freedom of the press but the
+advancement of medical science. With respect to the freedom of the
+press, they lived in a country where the law always maintained
+that principle. When Mr. Abernethy had applied for an injunction
+against the Lancet, Lord Eldon said that there could be no doubt
+that the Lancet was a most useful publication--(applause). He did
+not know whether that observation had been brought forward at the
+late trial; but taking the case--what was it? It appeared that the
+operation was one of peculiar difficulty, as stated upon oath by
+some of the most experienced surgeons of the day. This operation
+was laid hold of by the Lancet, and published not as a medical but
+as a tragical performance, in which all persons without science
+or knowledge were appealed to, and no opportunity afforded to Mr.
+Cooper to vindicate himself. Here, then, was a low and pitiful
+attempt made through the medium of malice and calumny (loud hisses
+and uproar). Here was a rude and pitiful attempt by malice and
+calumny (renewed signs of disapprobation). And yet it was contended
+that this had advanced the medical profession. The evidence on the
+trial went to shew that the dangers by which the operator had been
+surrounded were not small, and that there was no just reason to
+accuse him of unskilfulness in what he did; and was it then to be
+said, in the face of the British public, that a Meeting had been
+held at the Freemasons' Tavern to offer praise and reward to the
+individual whose conduct had, by the verdict of the Jury, been
+stamped with the accusation of untruth (hear, hear! and hisses)?
+He would not deny that there was a degree of talent displayed in
+the Lancet; but neither could it be denied that it was a public
+depredator by means of reports surreptitiously obtained; and the
+title of "literary raven," which had been applied by Sir James
+Scarlett, appeared to him to truly depict its character (great
+hisses and uproar). Was it to be contended that any one had a right
+to come into a private lecture-room, and catch up all he could
+hear, and then to publish what he had thus surreptitiously and
+fraudulently obtained (immense uproar and hisses)? As far as the
+medical interest was concerned, he looked upon the Lancet as one of
+the most injurious publications that had ever appeared (hisses).
+All the best writers on the subject had dwelt with peculiar
+emphasis on the necessity of secrecy among the members of the
+profession, but the Lancet broke through this good rule, and made
+public whatever came within its notice; and he had no doubt that
+if it could get at the cases that occurred in private practice, it
+would give them without any scruple (uproar).
+
+The _Chairman_ begged to remind the speaker that at all events Mr.
+Wakley had not as yet done so.
+
+_Dr. Shiel._--I am arguing on the principle which appears to
+actuate Mr. Wakley.
+
+_Mr. John Elliot_ rose to order. He could not allow Dr. Shiel to be
+going upon suppositions; the thing that he supposed had never been
+done.
+
+_Dr. Shiel_ was sure that whatever turn might be given to the
+subject in England, that at all events the conclusions that the
+Meeting appeared to be coming to would be resisted abroad. The
+weight of Sir Astley Cooper's name abroad would overpower any
+such attempt, and, in fact, would render it contemptible; so that
+any attempt to prop up so low, pitiful, and mean an attack, must
+inevitably be attended with disgraceful failure (hisses).
+
+A gentleman observed, that he was much surprised at what had fallen
+from Dr. Shiel. He had been induced to suppose that the Lancet
+possessed talent, as he had heard it praised in so many directions,
+and he certainly had never heard till that evening that it was
+only to be found in the hands of the illiterate (hear, hear! and
+a laugh). He had always understood that it was only destined for
+the use of students and other members of the profession, and that
+it was likely to be of great use in reforming the abuses of the
+medical practice (hear, hear! and cries of "So it will!"). For his
+own part, he was glad that medical men were occasionally cut up,
+because when they did what was wrong it was proper that they should
+be told of it; and when they did what was right, it added a fresh
+stimulus to their exertions (applause).
+
+_Mr. Thomas_ observed, that he had not intended to say any thing at
+the present meeting; but as Dr. Shiel, in the course of his speech,
+had thought proper to make some remarks tending to calumniate Mr.
+Wakley's witnesses on the trial, of which he was one, he felt
+called upon to say a few words (hear, hear!). Dr. Shiel seemed to
+consider them all as the mere scum of the earth--as a miserable
+band, collected together to support Mr. Wakley, whatever might
+be the consequence; as though he was desirous of going the whole
+length of the Medical Gazette, which stigmatised them for what it
+called "their deep-laid contrivances--their rankling enmities, and
+their bitter revenge." For himself he could say, that it was not
+till the evening previous to the trial that he had been supœnaed,
+and that he had previous to that time never seen Mr. Wakley.
+
+_Dr. Shiel_ said that he could not have alluded to the gentleman
+who was speaking, as he did not even know his name.
+
+_Mr. Thomas_ then went on to observe, that as Dr. Shiel appeared
+to be the advocate of the opposite party, he also supposed that he
+was a contributor to the aristocratical (Medical) Gazette ("No,
+no!" from Dr. Shiel). If he were not, at all events he had put
+forward ideas that were quite consonant to the sentiments expressed
+in that Journal. In giving his testimony, he had not spoken of the
+instruments employed in the operation, but of his own impression
+on the subject, having been present thirty-five minutes; and that
+impression certainly was, that the operation had been performed in
+a bungling and unscientific manner (loud applause, mingled with
+hisses). Was he then, because he happened to be a witness on the
+occasion, to be put down, pell-mell, by the unfounded imputations
+of any one? The highly-principled, honourable-minded Medical
+Gazette, that had determined never to admit any personalities, had
+loaded Mr. Wakley and Mr. Lambert with all sorts of abuse. Was
+this what they intended to call acting on principle (applause,
+and cries of "No, no!")? He certainly had heard that Mr. B.
+Cooper was an amiable man in private life; but what had that
+to do with the question at issue? What had they to do with the
+private character of a man in a public office (cheers)? Surely the
+witnesses of Mr. Wakley were as competent to speak of the manner
+in which the operation was performed as those who had not been
+present (applause); and as he had seen many operations performed
+he conceived that he was a competent judge of the skill of the
+operator (applause).
+
+A gentleman, who appeared to be a student, thought that the
+introduction of any attack upon the witnesses, or indeed of
+anything that occurred at the trial, was irrelevant (hear,
+hear!). The way to answer a speaker was not by hisses, but by
+disproving his arguments and rebutting his facts (applause). If
+questions were to be settled merely by strength of lungs, he
+was afraid that instead of the right side prevailing, success
+would uniformly attend those whose physical powers probably much
+exceeded their mental (laughter and applause). He could not agree
+with the gentleman who had stated that the law of England was
+the protector of the freedom of the Press; for it was well known
+that the Judges had decided, over and over again, that truth was
+a libel (applause). It was only the vehicle that conveyed public
+sentiment, and not the force that impelled it forward. He was
+convinced that any attempt to connect medical reform with Mr.
+Wakley should be studiously avoided and disclaimed. As a friend of
+free discussion in every case, and anxious to uphold the principle,
+whatever he might think of the instrument, he intended to propose,
+as an Amendment, "That the latter part of the Resolution, relating
+to Mr. Wakley, should be omitted." This would save the cause of
+medical reform from being identified with Mr. Wakley, of whose
+impartiality he would give a specimen. In the last number of the
+Lancet, the report of the late trial was given from the Times, but
+with a remarkable omission. The Lord Chief Justice had rebuked
+one of the defendant's witnesses for not answering the questions
+in a straightforward manner, and this passage was omitted. If Mr.
+Wakley would do this on such an occasion, would he be more candid
+when the public eye was less upon him? He, therefore, wished to
+have the question of medical reform kept separate from Mr. Wakley
+individually. The first part of the Resolution would be carried
+without a dissenting voice, as on that principle they were all
+agreed, whatever they might think of the conduct of individuals.
+
+[One or two persons then made speeches for or against the
+amendment; which was negatived, and the original motion carried.]
+
+_Mr. Hensley_ then, after observing that Mr. Wakley's conduct
+was highly praiseworthy, because it tended in every way to the
+benefit of humanity, moved the second Resolution, which was to the
+following effect:--
+
+"That the purposes for which the Hospitals and Infirmaries of
+the Metropolis were founded, and that the views of the humane
+contributors to their funds, are materially promoted by the
+weekly publication of reports detailing the medical and surgical
+treatment of the unfortunate patients; and that Mr. Wakley having
+originated the practice of publishing Hospital Reports, has
+conferred important benefits on Medical Science, and on the cause
+of humanity."
+
+The resolution was then carried unanimously.
+
+_Mr. John Elliott_, on moving the third resolution, said that he
+did not come there to interfere in the quarrels of Wakley and
+Cooper. They had acknowledged that Mr. Wakley's exertions had been
+very conducive to medical reform, by the last resolution they
+had passed. Indeed, there could be no doubt that he had greatly
+served the cause of humanity, by preventing idleness on the part of
+medical persons, and compelling attention to the poor placed under
+their care. It was his opinion that the editor of the Lancet ought
+to be indemnified for the whole expense entailed on him by the
+late trial, including the damages awarded against him. This would
+not be a private subscription, like Brodie's, but one open to the
+world, and not to be questioned in a court of justice. He would not
+support Mr. Wakley if he had attacked private character; but he
+would, as the editor of the Lancet and the representative of the
+medical free press. He concluded by moving--
+
+"That the independent and impartial principles on which the Lancet
+was first established, have been preserved by Mr. Wakley at all
+risks; and as it was acknowledged at the late trial, that the
+legal expenses of his opponents on another occasion have been
+defrayed by certain hospital physicians and surgeons[23], it is
+farther resolved, that a subscription be opened for the purpose of
+defraying the expenses of the late action."
+
+[Dr. Shiel here spoke very strongly against entering into a
+subscription--while some spoke in its favour.]
+
+A discussion then arose about the question of whether an account
+of a second operation for lithotomy by Mr. Cooper (in which he had
+been successful) had been sent to Mr. Wakley? It was stated that
+such was the case, but as the action for the present libel was then
+commenced, _Mr. Wakley thought that he perceived something in that
+second report that might tend to aggravate the damages, and which,
+at the same time, would be farther injurious to Mr. B. Cooper_.
+
+The third resolution was then carried by an immense majority, only
+five hands being held up against it.
+
+_Mr. Evans_ moved, "That the statement of professional facts in an
+unprofessional form, such as the dramatic instead of the narrative,
+is highly reprehensible in the individual, and detrimental to the
+best interests of science."
+
+This resolution, after some turbulent discussion, was withdrawn.
+
+_Mr. J. L. Stevens_ then moved, as the fourth resolution, that "In
+accordance with the feelings this meeting has expressed, Mr. Wakley
+be invited to attend a Public Dinner, and that a Committee be
+forthwith nominated to arrange the same."
+
+_Mr. Rogers_ seconded the resolution, and it was carried
+unanimously.
+
+The members of the committee were then named, and power given to
+them to add to their number.--The chairman then vacated his office,
+and the meeting separated.--_Morning Chronicle, Wednesday._
+
+
+In the course of the evening, the conduct of one of the speakers
+gave for a short time an amusing turn to the discussion, which for
+a great part had appeared to many extremely dry and tedious. The
+gentleman in question, (not a medical man), in order to show the
+opinion he had entertained of the object of the meeting, proposed
+to read for the audience a letter which he himself had written to
+the chairman of the committee, asking permission to attend. He
+began, but he had scarcely got through a few words when he declared
+he was not able to make out his own writing, and requested the
+chairman to assist him. The chairman made the attempt, but was not
+more successful. Another gentleman then undertook the task, but
+with no better effect. The audience received each unsuccessful
+effort with loud laughter, which so much annoyed the writer that he
+took back the letter, and again tried to go through with it, but
+not being able to make it out, he proposed to read for the meeting
+two letters which he wrote on the same subject to the editor of a
+Sunday paper. (Loud laughter followed this proposition, which was
+increased, when, on an attempt to read one of them, he had no more
+success than before.) The gentleman, after complaining of the want
+of courtesy in the meeting, resumed his seat, declaring that he
+would give the letters to the reporters.--_Times, Wednesday._
+
+
+
+
+HOSPITAL REPORTS.
+
+
+GLASGOW ROYAL INFIRMARY.
+
+_Injuries of the Head._
+
+D. M'Millan, æt. 40, seaman;--while he was employed in the hold
+of a vessel, a heavy iron block, of a round form, fell from the
+rigging, a height of 20 feet, and struck him on the head. He was
+knocked down and stunned, but was able to rise and to walk with
+a little support. He was brought about a mile and a half in a
+hackney-coach to the hospital, and admitted by Mr. Cowan at one
+o'clock P.M., half an hour after the accident. At this time he
+had a stupified look, but was quite collected, and was able to
+walk across the ward; breathing and pupils both natural; pulse 75,
+of moderate strength. There was a wound in the scalp, commencing
+nearly over the centre of the sagittal suture, and running about
+three inches backwards and towards the left; along this a portion
+of skull, corresponding to the wound in size, was felt fractured,
+detached, and irregularly depressed. His right arm was benumbed and
+nearly powerless, but no mark of injury was observed on it.
+
+It was determined to remove the detached piece of bone, and the
+original wound being extended lengthwise in both directions, an
+incision was made through the scalp at right angles to it over the
+left parietal bone, thus bringing the fractured portion into view.
+This was found to be broken down into several fragments, some of
+which were firmly impacted under the surrounding cranium, and one
+spiculum, driven through the dura mater, had penetrated the brain.
+The trephine was applied a little to the left of the fracture, and
+the intermediate part removed with Hey's saw; the detached pieces
+of bone, ten in number, of various sizes and irregular shapes,
+were removed with the forceps, the scalp replaced and retained in
+position by a stripe of adhesive plaister and very light dressings.
+During the operation one artery required ligature, and about ℥v. of
+blood were lost: he had lost perhaps as much before. He remained
+quite sensible, bore it well, and shortly afterwards had half a
+glass of port wine in warm water.
+
+Ten P.M.--Has been tolerably easy; complains of pain of fore-part
+of head; pulse 82, firm.
+
+    Fiat V. S. ad ℥xviii.
+
+    Sumat statim Submur. Hydr. gr. viii. Pulv. Antimon. gr. vi.
+
+    Applic. Capiti Lotio ex Alcohol. et aq. calcis.
+
+Second day.--After bleeding, thought feeling of numbness of right
+arm somewhat lessened, and to-day has rather more power of it.
+Passed a tolerable night; a little head-ache; countenance pretty
+natural; tongue slightly loaded; thirst; no stool.
+
+    Sum. stat. Sulph. Magnesiæ ℥j. et rep. vesp. si opus.
+
+Third day.--From an aversion to use the bed pan, he rose to stool
+last night, and fell forwards on the floor, seemingly from having
+entangled himself in the bed clothes; he got into bed without
+assistance; had a shivering fit shortly after, but has had a pretty
+good night; bowels freely opened; head-ache slight; pulse 84, soft;
+tongue dry in middle. Towards the evening of this day he appeared
+drowsy; and on the fourth day he is reported as seeming confused
+and uneasy; countenance anxious; articulation difficult; the right
+arm was more paralysed, and indeed the whole right side seemed
+now to partake in the paralysis; a small part of the wound had
+adhered, the remaining part was flabby, discharging thin serum.
+In the evening the difficulty of articulation and drowsiness had
+increased. Twelve leeches were applied to each temple, and in a
+short time he seemed a little livelier.
+
+Fifth day.--Much in the same state; took a little beef tea.
+
+Sixth day.--Paralytic symptoms increased; breathing laborious.
+Blister to the neck. It may be worthy of remark, that in the few
+words he now spoke he never made use of the English language, but
+of the Gaelic, which was his native tongue; and even when told that
+he was not understood, he persisted in repeating the Gaelic phrase.
+
+Seventh day.--A small fungus was observed in upper part of wound,
+to which lint dipped in lime water was applied, and moderate
+pressure. The fungus continued to increase.
+
+On the eleventh and twelfth days he had slight bleedings from the
+scalp, which stopped spontaneously. Stupor, &c. greatly increased,
+but he still recognised his friends; took a very little chicken
+soup or beef tea daily, with lemonade, &c. for drink.
+
+On the evening of the thirteenth day bleeding to the extent of
+℥iv. or v. took place from fungus: it was checked by application
+of saturated solution of alum, but he sunk rapidly, and died that
+night.
+
+_Inspection 36 hours after death._--The fungus protruded
+considerably beyond the scalp, and was rather larger than a hen's
+egg, of a dirty brown colour, and a soft spongy consistence; it
+completely filled up the opening made in the skull by the trephine
+and removal of detached bone. The pericranium to the inferior side
+of this opening was found detached from the bone, to the extent
+of a crown piece, and beneath it the bone was rough, and covered
+with thin purulent matter. The dura mater, for two inches around
+the fungus, was covered with pus; this membrane, by sloughing,
+had allowed the fungus to protrude, and its edges adjacent to the
+aperture were thickened. On removing the dura mater, the fungus was
+observed to arise, partly from the middle, but chiefly from the
+posterior lobe of the left cerebral hemisphere: it occupied a space
+about three inches in length, and an inch and a half in breadth,
+extending to within a line or two of the roof of the ventricle;
+at its anterior part was an abscess, containing ℥ss. of pus. The
+fungus seemed to be a degeneration of the cerebral substance;
+sections of it showed the cerebral matter first dotted with an
+unusual number of bloody points, then assuming a greyish colour,
+which gradually passed into a dirty brown. With the exception of
+these bloody points, the brain presented no unusual vascularity:
+it was quite firm, except in the immediate neighbourhood of the
+fungus, where it gradually became softer as the colour of the
+cerebral substance became deeper, till in the centre of the fungus
+it was nearly of a broken down consistence. A quantity of serum was
+found in each ventricle.
+
+
+Another man who had been struck by the piece of iron which
+fractured M'Millan's skull was brought up to the hospital at the
+same time. He had received the blow on the vertex of his head. On
+admission he was in a state of fury, requiring the efforts of
+several men to hold him. His head was bruised out of all shape,
+quite depressed behind, and a fracture also of the frontal bone;
+there were evident symptoms too of fracture of the base of the
+skull. The case was hopeless. Several large depressed and detached
+pieces of bone were removed, but he died a few minutes after the
+operation.
+
+
+During the same week an old woman was brought up to the infirmary,
+who, the day previously, had fallen headlong down a stone
+staircase. She laboured under the severest symptoms of concussion,
+and besides had a comminuted fracture of the humerus into the
+elbow joint, and of the radius into the wrist joint of left arm.
+She was past all treatment, and died on the second day. The case
+is mentioned chiefly to remark, that although no external injury
+of the head could be observed, on inspection a fracture was found
+extending completely across the anterior part of base of cranium.
+
+
+There are no dispensaries in Glasgow, but such of the poor as are
+unable to obtain admission into the Royal Infirmary, and those who
+are not so ill as to submit to the confinement of an hospital,
+or for other reasons prefer remaining in their own houses, are
+prescribed for, and, if necessary, visited at the public expense.
+For this purpose the city is divided into districts, and a surgeon
+appointed to each. The "district shop" thus resembles a dispensary,
+where the surgeon prescribes in the presence of his pupils, who
+indeed, under his superintendance, have the management of many
+of the cases, both among the patients who receive advice at the
+"shop," and those who are visited at home. Although under the care
+of a surgeon, the diseases treated are both medical and surgical,
+for there is little distinction made between the two branches of
+the profession here.
+
+The following case occurred under the care of Mr. Stirling:--
+
+W. M. æt. 28, while returning home during the night in a state
+of intoxication, fell from a height of ten feet, into a court
+paved with stone. He was rendered insensible for some time, but
+on recovering was able to crawl to the nearest door, and was
+conveyed home. Medical assistance was immediately procured. On
+the forehead, about an inch above the nasal process of the frontal
+bone, was a cut an inch and a half in length, extending obliquely
+downwards from the right side; through this a triangular fracture
+was felt, the base of which was in the direction of the external
+wound, and the apex pointing downwards; the fractured portion
+of the bone was slightly depressed; the bones of the nose were
+also fractured, and there was great discharge of blood from the
+nostrils. One third, or nearly, of the upper lip was cut off, and a
+good deal of blood had been lost from the labial artery; the lower
+jaw at the symphysis was fractured and comminuted, and several
+pieces were perceived to be loose. Was quite sensible, remembering
+every thing up to the period of the accident. Pulse 80; has vomited
+frequently. Wound of forehead was dressed with adhesive plaister;
+the loose pieces of bone were removed from the lower jaw, and it
+was afterwards retained in juxta-position by a chin bandage.
+
+Early next morning he was bled to ℥xii. and had a purge of jalap
+and calomel, by which his bowels were freely opened. That night he
+felt considerable pain of head; pulse 90, full, and strong. He was
+bled again to ℥xxv. Blood first drawn had the buffy coat. After
+the bleeding the pain of head diminished, and he continued to do
+well. When the swelling and tenderness of face had subsided, it was
+observed that the fracture communicated with the frontal sinus. On
+holding his nose and attempting to blow it, matter and air escaped
+by the fracture. The man was anxious for a speedy cure, and for
+this purpose an operation to remove the depressed piece of bone was
+at one time thought of; there was no constitutional disturbance,
+however, and the case was left to nature. The discharge gradually
+diminished, and the wound healed up in about a month. The bones
+of the nose retained their position, and the broken ends of the
+jaw, after the swelling had subsided, were kept in their proper
+situation by a pasteboard splint till re-union took place. The lip
+also healed easily, and no deformity is now observable.
+
+
+GUY'S HOSPITAL.
+
+_Inflammation of Hernial Sac._
+
+The previous report of this case (Gazette, No. 51) conducted it to
+Nov. 18th, the tenth day from the operation, and the third on which
+fæces had been discharged from the wound; that discharge continued
+on the 19th, but on the 20th pus only was seen.
+
+Nov. 22.--Yesterday the dresser, Mr. King, observed a portion of
+_solid_ fæces make its escape, and to-day a similar discharge, in
+the fluid form, is manifest.
+
+Nov. 26.--Since the 22d, nothing but healthy pus has been seen; the
+wound is rapidly healing, and the patient's general condition as
+good as can be desired.
+
+Dec. 4.--He has begun to wear a truss, and is to-day allowed to
+leave his bed.
+
+Dec. 8.--As regards his original complaint, the man is perfectly
+convalescent, but he now discloses a small abscess in the scrotum,
+which has been gradually forming, and will detain him in the house
+some time longer.
+
+If it be a sound surgical maxim that, in strangulated hernia,
+the patient's safety depends upon an early operation, it is also
+a maxim no less sound, that where the evidence and symptoms of
+strangulation are imperfect, or dubious, the benefit of the doubt
+should be given to the operation, and it should be performed: for
+it is better that buboes should be laid open, or inflamed sacs cut
+into, twenty, aye, fifty times in succession, than that in one case
+a man should be suffered to die with strangulation of the intestine
+unrelieved.
+
+These remarks apply strikingly to this case of Mr. Key's, in which,
+although no hernia was found, they perfectly justify the operation.
+No case of strangulation could be more distinctly marked, or
+more clearly call for the knife, than did this; and had Mr. Key
+refused to use it, he would have deserved the scoff which, by a
+contemporary, has so preposterously been thrown on the "no hernia
+case." But, more than this, the operation was not only justifiable,
+but beyond a doubt _beneficial_--beneficial inasmuch as it at
+once relieved the distress of the patient, secured him from more
+extensive suppuration, from farther sloughing of intestine, and
+probably from extravasation of fæces into the abdomen; rendering
+also the process of reparation more easy and rapid.
+
+
+_Hereditary Hare-Lip._
+
+Dec. 4th, Mr. Key performed the operation for hare-lip on a child
+a few months old, whose case was remarkable only as it afforded an
+instance of _hereditary_ malformation. The father of the child had
+congenital hare-lip, for which no operation had been performed, and
+of his six children _two_ were born with the same malformation.
+
+_Queries._--1. If the father's lip had, in his infancy, been
+restored to the natural form, would the malformation in that case
+have descended to his children?
+
+2. Is the casualty in these cases to be traced _directly_ from
+the father to the incipient embryo, or _indirectly_, through the
+medium of the mother's imagination--It has been said that paternal
+resemblances are produced in the latter mode.
+
+  G.
+
+
+PARIS HOSPITALS.
+
+_Hôtel Dieu._
+
+_Cases of Gangrene of the Lungs._
+
+Some interesting cases of gangrenous suppuration of the lungs were
+published by Dr. Chambers, about eighteen months ago, in which he
+particularly pointed out the horrible fœtor of the breath as a
+diagnostic mark of the disease. The following cases which recently
+occurred at the Hôtel Dieu are good illustrations of more extensive
+destruction of the lung by a similar disease.
+
+CASE I.--A man, aged 32, of good constitution, laboured under
+bronchitis for some weeks, to which he paid little attention,
+when he was suddenly seized with pain in left side, dyspnœa,
+considerable cough, and a rigor, followed by fever. He was admitted
+into the Hôtel Dieu next day. Crepitation was perceptible over the
+whole extent of the left lung, posteriorly, and reaching to the
+site of the pain in the side, which was increased by percussion;
+great oppression, with frequent cough, and expectoration of
+violet-red colour, mixed with mucus; pulse frequent and small;
+constant chilliness; cheeks flushed.
+
+Next day the symptoms remained unabated, and _fœtor of the breath_
+was observed. Two days after it is stated that the expectoration
+maintained the same appearance, but _was now fœtid_; the breath
+was, however, still more offensive, and during the fits of coughing
+particularly so. In the evening the breath is said to have become
+_gangrenous_.
+
+21.--The cough was small, difficult, and painful, producing an
+expectoration of violet-coloured matter, approaching to chocolate,
+_with a characteristic odour_.
+
+22 to 25.--Expectoration and breath emit an _intolerable stench_.
+On the latter day the patient died.
+
+_Examination._--The body not emaciated. Strong adhesions of the
+left lung to pleura costalis. At its posterior part a large
+gangrenous layer, occupying the two superior thirds of the lung,
+covered at some points by a false membrane. The lower third, and
+the parts round the gangrenous portion, in different degrees of
+inflammation, and hepatised; the putrid mass was in great part
+black or violet-coloured, containing fragments of the pulmonary
+texture; the smell gangrenous, but less so than that of the breath
+during life; pus might be squeezed from the adjacent part of the
+lung.
+
+CASE II.--A man, aged 55, enjoyed good health till the beginning
+of May, at which time he experienced pain in the left side of
+the thorax after exposure to cold. During the next few days the
+cough was frequent, and the expectoration tinged with blood. A
+rigor now came on, followed by a distinct exacerbation of fever,
+and he came to the Hôtel Dieu. At this time he presented symptoms
+of inflammation of the lungs, and was bled with relief; he left
+the hospital in twelve days, being sufficiently well to resume
+his occupation. Scarcely had he done this, however, when he had a
+relapse, accompanied by great lassitude, oppression of breathing,
+and frequent cough. At the end of a week he returned. He was now at
+the twenty-first day of the attack. His skin was yellowish; face
+pale or of leaden hue, and greatly altered; his cough frequent,
+with abundant expectoration of matter like chocolate, with small
+specks resembling pus, and little bodies about the size of peas,
+which appeared to be portions of the lung. This putrid mass exhaled
+a _gangrenous odour_, and the expired air was impregnated in a
+high degree with an equally disgusting smell, which surrounded the
+patient's bed with a contaminated atmosphere. Percussion gave a
+clear sound over the whole extent of the chest; auscultation did
+not discover the pulmonary expansion on the right side. The pulse
+was weak, but not frequent; the patient was in a state of extreme
+prostration. Next day the odour of the breath and expectoration
+was, if possible, more dreadful. He lingered two days longer,
+during which time the fœtid smell somewhat diminished, and the
+proportion of pus in the expectoration increased.
+
+_Examination._--The left lung had contracted firm adhesions,
+particularly above and behind. It was torn in attempting to
+remove it, and there issued from the middle and posterior part a
+large quantity of dark-coloured matter, similar to what had been
+expectorated. An incision was made along the back part of the
+lung, and laid open a large cavity, occupying all the extent of
+the pulmonary organ, and still in part filled with the same kind
+of dark putrid matter. On washing out the cavity it was perceived
+that it was lined with a smooth and white membrane, to which were
+still adherent, at some points, dark filamentous shreds; these
+were removed by the least touch, and left the surface smooth
+beneath. The boundary was formed by a false membrane, about a line
+in thickness, which separated the mortified from the sound parts.
+The lung was reduced to a kind of bag, the parietes of which were
+on an average about an inch thick. In the upper part of the lung,
+which was hepatized, an incision discovered a number of smaller
+tubercles, which in the centre were in a crude state; and at one
+point several had suppurated, forming a cavity large enough to
+contain a nut.
+
+[The Editors of the _Journal Hebdomadaire_, from which these cases
+are abridged, add, in a note, that although the fœtor of the
+expectoration, such as above described, is usually dependent on
+gangrene of the lungs, yet that this is not invariably the case.
+In confirmation of this assertion they refer to three instances
+of fœtid expectoration--in the first, the patient is still alive;
+in the second, there was chronic bronchitis, with considerable
+dilatation of numerous bronchi; and in the third, bronchitis with
+some appearances of chronic pneumonia. Laënnec gives a case of
+dilatation of the bronchi, with remarkably fœtid expectoration.
+The argument derived from the first patient having survived we
+consider to be altogether erroneous, as patients more frequently
+recover from this than other forms of purulent expectoration.--ED.]
+
+
+
+
+PROCEEDINGS OF SOCIETIES.
+
+
+WESTMINSTER MEDICAL SOCIETY.
+
+December 6th, 1828.
+
+JAMES ARNOTT, ESQ. IN THE CHAIR.
+
+Pursuant to announcement, Mr. MacKelcan introduced the subject of
+concussion of the brain. After remarking on the several symptoms,
+and mentioning the other affections of the head with which
+concussion is apt to be confounded, Mr. M. directed the attention
+of the society more particularly to the treatment in the stage of
+collapse, adopted by Professor Andrini of Florence.
+
+Dr. Duffin stated, that having been in Florence, he had witnessed
+the employment of three, four, or six ounce bleedings employed
+by the Professor in the stage above-mentioned. The principle on
+which they were used was that of their acting as a stimulus to the
+brain; and really the plan was not apparently attended with any bad
+effects. When re-action has ensued, the practice of M. Andrini is
+the same as that resorted to in this country.
+
+The discussion then wavered between apoplexy and concussion, and
+ended by some good-humoured sparring between Dr. Addison and Mr.
+Gilbert Burnett, on the capability of the brain containing more
+blood at one time than another.
+
+The President announced from the chair that a special meeting would
+take place on Friday evening, December 12, at 7 P.M.
+
+
+December 20th, 1828.
+
+CÆSAR HAWKINS, ESQ. IN THE CHAIR.
+
+After some business had been dispatched, to which we shall allude
+in another place, Mr. Jewel related the particulars of a case of
+"supposed extra-uterine fœtation." The case, which is one of much
+interest, is as follows:--
+
+Mrs. F. a robust, healthy woman, ætatis 27, had been married one
+year, and aborted once; when, in the month of September 1827,
+she quitted her husband in London, and accepted a situation in
+the country. After the expiration of a few weeks she received
+permission to come to London for a day; and, naturally enough,
+passed that night, (November 8th), with her husband, returning
+again to the country next morning. Soon afterwards, the
+morning-sickness, heart-burn, and other sympathetic affections
+of pregnancy, appeared; but the catamenia still returned at the
+regular periods, though scanty and paler in colour than natural.
+She now quitted her situation, returned to her husband, and
+engaged a midwife to attend her in her expected confinement. The
+circumstance of quickening occurred in the latter part of February,
+and was accompanied by a severe paroxysm of fainting, whilst the
+abdomen gradually enlarged, and the motions of the child (as was
+imagined) could not only be easily detected with the hand, but were
+visible to the eye. On the 9th of August, making a period of 274
+days, she was seized with the usual premonitory symptoms of labour;
+the midwife arrived; found her walking her chamber, and concluded
+that the process had considerably advanced. Three distinct uterine
+contractions took place subsequent to the midwife's arrival, the
+last of which was so severe as to compel the patient to grasp
+firmly the back of a chair, and induce, after its subsidence,
+excessive faintness. From this time no further parturient effort
+was made; no examination per vaginam was instituted; neither was
+there noticed any sanguineous vaginal discharge. When Mr. Jewel saw
+her, examination detected nothing unusual in the os uteri, and the
+symptoms she presents are these. The abdomen is about the size of a
+woman's in the sixth or seventh month of pregnancy, the enlargement
+being general. Her general health is much disturbed: she complains
+of pain in the left hypogastric region, particularly when the
+abdomen is compressed by the hand or stays--and she also complains
+of weight in the abdomen, especially on leaning forwards. The woman
+herself has a strong prepossession that "something is to come
+away," or that she might be relieved by an operation. The woman
+believes that she still feels the motions of the child, though
+feebly.
+
+Having read this case, Mr. Jewel concluded by offering some
+observations on the subject of extra-uterine fœtation. He
+considered this as probably an instance of "graviditus
+abdominalis," and remarked that the uterus not having expelled its
+dezidua, was no conclusive proof to the contrary, Dr. Blundell and
+Mr. Langstaff having examined cases where this was wanting.
+
+Dr. Locock never saw a case where laceration occurred in the
+early months of pregnancy. Dr. L. remembered the particulars
+of a case where the uterus was lacerated in the fourth month,
+and the ovum escaped into the cavity of the abdomen, and the
+symptoms of pregnancy were exceedingly strong. Dr. Locock almost
+doubted whether Mr. Jewel's was an instance of pregnancy at all,
+for frequently women enjoying sexual intercourse have enlarged
+abdomens, and many of the other symptoms of pregnancy, which a few
+doses of purgative medicine will remove.
+
+Two remarkable instances of extra-uterine fœtation were related
+by Mr. Burnett and Mr. Cæsar Hawkins; and towards the conclusion
+of the evening the discussion turned on the powers of the ergot
+of rye. Dr. Locock had frequently tried it in amenorrhœa, and, on
+the whole, without any very good effects. In one remarkable case,
+where the lady particularly wished to have children, Dr. Locock
+having boiled an ounce of the ergot in a pint of water down to half
+a pint, gave an ounce and a half of this decoction three times a
+day. After the young lady had taken about half a pint, the most
+violent convulsions succeeded, which placed her life in imminent
+hazard, and from which it was long before she completely recovered.
+She menstruated twice after that, but then the discharge again was
+arrested, and has never since returned, nor has she become pregnant.
+
+The practice of "bougieing the uterus" in cases of dysmenorrhœa
+was brought upon the tapis, and excited a good deal of laughter,
+the members appearing to consider the proposal ridiculous in the
+extreme.
+
+
+MR. LAMBERT.
+
+At the last meeting of this Society it was proposed, on the
+recommendation of the Committee, that Mr. James Lambert should be
+expelled; and after some discussion it was agreed that the sense
+of the members should be taken by ballot at the next meeting,
+Saturday, January 3, 1829. It was thought that proceeding at
+once to his expulsion might give the appearance of the measure
+originating with a party, and that the delay would enable the
+deliberate judgment of the whole Society to be passed upon his
+conduct.
+
+
+HUNTERIAN SOCIETY.
+
+Dec. 10, 1828.
+
+DR. BILLING, PRESIDENT, IN THE CHAIR.
+
+Mr. Leese, Jun. exhibited to the meeting a specimen of medullary
+sarcoma, taken from the forehead of a man after death, with a
+portion of the os frontis. The man was fifty-eight years of
+age, long asthmatic, and appeared to die of hydrothorax. He
+never suffered any pain in the tumor, but expressed a sense of
+distention. It was immoveable at the base, and there were some
+fissures in the os frontis, from caries. The dura mater at the
+corresponding part adhered firmly to cranium, and on its being
+removed some spiculæ from the carius inner table remained adhered
+to it. There had never been any symptoms of cerebral affection. A
+tumor of the same nature had formed on the scapular extremity of
+the clavicle, and had occasioned anasarca of the limb.
+
+Mr. Key supposed that the tumor had originated from the diplöe,
+and believed that the only chance of relief in such a case
+would be trephining; but he acknowledged that there was little
+encouragement to operate in these cases, owing to the tendency of
+the disease to return in some other part. He related an instance
+of the true medullary fungus taking its origin from the cancellous
+structure of the os femoris. The limb was removed, but the patient
+died. A circle of fungoid glands was observed at the base of the
+heart, and some of the bronchial glands were in the same condition.
+
+Dr. Conquest expressed his belief that carcinoma was always a
+constitutional affection, and stated that at least in nine cases of
+cancer uteri out of ten, there was carcinomatous affection of the
+pylorus, mesenteric glands, or liver.
+
+Mr. Key and Dr. F. Ramsbotham had not observed, in their
+examinations, the coincidence noticed by Dr. Conquest.
+
+The remainder of the evening was occupied by a discussion on the
+different kinds of ulceration that occur about the os and cervix
+uteri, and the circumstances under which the removal of the uterus,
+or the amputation of the cervix, may be warrantable.
+
+Dr. Babington adverted to the occasional existence of a family
+disposition to carcinoma. He had known three sisters successively
+die of cancer in the breast.
+
+
+MEDICAL SOCIETY OF LONDON.
+
+Dec. 13th and 20th, 1828.
+
+DR. HASLAM IN THE CHAIR.
+
+The subject of discussion, at the first of these meetings, was
+stricture of the rectum, when the diagnosis and treatment of
+carcinoma of that part came under consideration. There was a
+remarkable discrepancy in the opinions of Messrs. Lloyd and Salmon
+as to the symptoms and management of carcinomatous affections of
+the rectum. Mr. Lloyd maintained that these affections of the
+intestine were sometimes attended with pain and sometimes not, and
+that the patients were often materially benefited by the use of
+bougies; while Mr. Salmon affirmed, that the disease was always
+painful, and not to be mitigated by the employment of these means.
+
+A variety of subjects came before the society at the next meeting.
+The president read a letter from Mr. Wansborough, of Fulham,
+describing the "original stomach-pump," a specimen of which
+accompanied the letter: the instrument Mr. W. stated to be of 25
+years' standing.
+
+Mr. Shearly exhibited, among other morbid specimens, a uterus,
+on the external surface of which the disease termed the "white
+tubercle" was in progress: there was also a small polypus near the
+os uteri. Mr. Pereira exhibited to the society a fine specimen of
+medullary sarcoma of the liver. The organ was so enlarged as to
+have occupied two-thirds of the abdomen. The other viscera were not
+involved in the disease. The progress of the disease, as far as
+it could be ascertained, was excellently detailed by Mr. Smith, a
+visitor. The symptoms were obscure.
+
+Mr. Armstrong read an extract of a letter from Mr. Morgan, of
+the Bristol Infirmary, a corresponding member of the Society,
+describing a curious conformation of the œsophagus in a child,
+which lived 106 hours only, during which period every attempt to
+swallow food produced considerable distress. The œsophagus was
+found to be divided into two portions; the upper or pharyngæal
+extremity terminating in a _cul de sac_ behind the bifurcation of
+the trachea; and the lower or ventricular extremity arising from
+the trachea at this point, between the bronchi, proceeding down the
+spine, and terminating, as usual, at the cardiac orifice of the
+stomach. Mr. Drysdale mentioned a somewhat similar malformation
+occurring in two children in one family. Mr. Callaway related a
+case of concussion of the brain, which terminated fatally, after
+the restoration of the intellectual functions. The whole of the
+anterior lobes of each hemisphere of the brain was broken down, and
+mixed with effused blood. The remarkable feature of the case was,
+the return of consciousness, and the possession of this power for
+six days, under the disorganization of the brain described; and the
+questions particularly agitated were, Did this extent of mischief
+exist immediately after the concussion? What was the degree of
+laceration of the brain at that period? and, How could the recovery
+of the intellectual faculty be reconciled with so much injury of
+the brain?
+
+The Society then adjourned to the 12th of January, 1829.
+
+
+
+
+COOPER _v._ WAKLEY.
+
+
+Notes of the Cause, Cooper _v._ Wakley--We understand that Mr.
+Cooper is about to publish a verbatim account of the above trial,
+from Mr. Gurney's short-hand notes.
+
+
+
+
+ERRATA.
+
+
+The Advertisement of Mr. B. Cooper's, in our last Number, ought
+to have been dated "_December_ 15," instead of "_Oct._ 15." Also,
+for "_Mr. Elton_," the name of one of Mr. Cooper's witnesses, read
+"_Mr. Hilton_."
+
+In our last leading article, _for_ "can no friend of Wakley be
+named?" _read_ "can the name of no friend of Wakley be mentioned?"
+The alteration is necessary, to connect it with the conclusion of
+the paragraph.
+
+
+W. WILSON, Printer, 57, Skinner-Street, London.
+
+
+FOOTNOTES:
+
+[1] General thickening of all the valvular apparatus on both sides
+of the heart. (St. B. 33.)
+
+[2] Andral, vol. iii. p. 411.
+
+[3] Pl. 1, fig. 5.
+
+[4] Opacity and thickening of the lining membrane on both sides of
+the heart, without unevenness or alteration of form. (St. B. 33).
+
+Opacity and thickening in the valvular apparatus between the left
+auricle and ventricle, with shortening of the chordæ tendinæ, and
+such alteration of structure and form as to produce a considerable
+contraction of the aperture. (St. B. 26).
+
+Such thickening of the whole valvular apparatus as to narrow the
+aperture of communication between the left auricle and ventricle to
+a mere slit. (St. B. 19).
+
+Shrivelled and contracted state of the semilunar valves, in which a
+cartilaginous substance has entirely taken the place of the natural
+structure. (Hodgson, pl. 1, fig. 6).
+
+[5] Osteum aortæ almost closed by ossified valves. (St. B. 15);
+(Hodgson, pl. 1, fig. 2).
+
+[6] Fungus growing from the aortic valves, which are thickened and
+shortened. (St. B. 6, 20).
+
+Fungus form the aortic valves, which are ulcerated. (St. B. 21).
+
+Larger specimens of fungus, growing from the ulcerated edges of two
+of the valves of the aorta. (Hodgson, pl. 1, fig. 7).
+
+[7] Dr. Baillie's plate.
+
+[8] Polypous coagulum in the ventricle. (Coll. of Phys. 4, A. 16).
+
+Coagulum firmly attached to the lining of the left auricle, with
+enlargement of its capacity. (St. B. 19).
+
+[9] (St. B. 13).
+
+[10] It occurs sometimes in the uterus.
+
+[11] Memoir. de l'Acad. des Sciences. Morand, 1732. Morgagni,
+Epist. 27.
+
+[12] Andral, v. 3, 466; Hodgson, plate 1, figure 7; St. B. 14.
+
+[13] Corvisart, cap. 4. sect. 1.
+
+[14] Active dilatation of the left ventricle. (College of Phys. 4,
+c. 10.)
+
+The thickened walls of the left strikingly contrasted with the
+attenuated walls of the right ventricle. (St. B. 9).
+
+Active dilatation of the left ventricle. Its capacity is strikingly
+contrasted with that of the right. (College of Phys. 4, c. 11.)
+
+Passive dilatation of both ventricles, especially of the right.
+(St. B. 10).
+
+[15] Morgagni, Epist. xxvii. 7.
+
+[16] Ibid. 2.
+
+[17] Ibid. 3.
+
+Rupture of the left ventricle, with attenuation of its muscular
+structure. (St. B. 18).
+
+Rupture, without attenuation, but with softening and looseness of
+texture in the muscular substance. (St. B. 22).
+
+[18] Harvey, Exercit. altera.
+
+[19] Rupture of the left ventricle without change in its structure.
+Bone deposited at the commencement of the aorta. (St. B. 27).
+
+In turning over the Memoirs of the Royal Academy of Sciences, I
+find two cases of rupture of the heart, reported by M. Morand. They
+both occurred in the year 1730; and, strange to say, one was that
+of a Duchess of Brunswick, who was of the same family as George II.
+who also died of a ruptured heart. In the one, that of the Duchess,
+there was a manifest ulceration through the walls of the right
+ventricle, its structure being otherwise unimpaired; in the other,
+where the aperture was in the left ventricle, there was probably
+a simple rupture, for the flesh of the heart was so soft that the
+point of a probe would pass through it wherever it was rested.
+(Mem. de l'Acad. Roy. des Sciences, Ann. 1732).
+
+[20] The trial as published in the Lancet occupied less than 21
+pages--in the Gazette it extended, in the same type, to 33 pages
+and a half. In the Lancet, those parts, both of the evidence and
+speeches, which told most against Wakley, were omitted.
+
+[21] See passage in Italics, page 137.
+
+[22] The defendant, on leaving the court, was cheered by the
+populace in Palace Yard.--Lancet, Dec. 20.
+
+[23] This we believe is false; nothing of the kind either occurred,
+or was stated at the trial.--E. G.
+
+
+
+
+  TRANSCRIBER'S NOTE
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  Except for those changes noted below, all misspellings in the text,
+  and inconsistent or archaic usage, have been retained.
+
+  Pg 116, 'immedate contact' replaced by 'immediate contact'.
+  Pg 119, 'and attennuation in' replaced by 'and attenuation in'.
+  Pg 126, 'Tue valuable paper' replaced by 'The valuable paper'.
+  Pg 132, 'probably impossibly' replaced by 'probably impossible'.
+
+
+
+
+
+End of the Project Gutenberg EBook of The London Medical Gazette; December
+27, 1828, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LONDON MEDICAL GAZETTE, DEC 27, 1828 ***
+
+***** This file should be named 53450-0.txt or 53450-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/4/5/53450/
+
+Produced by John Campbell and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

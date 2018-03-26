@@ -1,0 +1,10 @@
+{
+	Title = "Babylon 5";
+	Category = 0;
+	Items = (
+	      { Q = "The Avalanche has started. It is too late for the pebbles to ____"; A = "Vote"; },
+	      { Q = "Beauty, in the ____"; A = "Dark"; },
+	      { Q = "How will it end?"; A = "In Fire"; },
+	      { Q = "What is the name of this spacecraft?"; A = "Starfury"; I = "starfury.jpg"; }
+	);
+}

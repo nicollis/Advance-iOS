@@ -1,0 +1,11 @@
+{
+	Title = "Sci Fi Movies";
+	Category = 3;
+	Items = (
+	      { Q = "What movie is this? (1951)"; A = "The Thing"; I = thething.jpg; },
+	      { Q = "What movie is this? (1958)"; A = "The Crawling Eye"; I = crawlingeye.jpg; },
+	      { Q = "What movie is this? (1965)"; A = "Crack in the World"; I = crackworld.jpg; },
+	      { Q = "What movie is this? (1973)"; A = "Fantastic Planet"; I = fantasticplanet.jpg; },
+	      { Q = "What movie is this? (1974)"; A = "Zardoz"; I = zardoz.jpg; },
+	);
+}

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Catalogs</h1>
+
+  <ul>
+  {% for catalog in catalogs %}
+  <li> <a href="/catalog/{{ catalog.id }}">{{ catalog.name }}</a> </li>
+  {% endfor %}
+
+  </ul>
+
+<a href="/api/catalogs">api-view</a>
+
+{% endblock %}

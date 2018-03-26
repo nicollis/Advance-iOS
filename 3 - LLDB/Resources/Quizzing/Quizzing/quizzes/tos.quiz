@@ -1,0 +1,8 @@
+{
+	Title = "Star Trek: TOS";
+	Category = 0;
+	Items = (
+	      { Q = "What is the Enterprise's Designation?";  A = "NCC-1701"; I = "enterprise.jpg"; },
+	      { Q = "What is the meaning of life?";  A = "Wrong Movie"; I = "hhg.jpg"; },
+	);
+}

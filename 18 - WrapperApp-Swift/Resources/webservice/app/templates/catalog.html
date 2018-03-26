@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ catalogname }}</h1>
+
+<ul>
+  {% for product in products %}
+  <li> <a href="/catalog/{{catalogid}}/product/{{ product.id}}">{{ product.name }} </a> (${{product.price / 100.0}})</li>
+
+  {% endfor %}
+</ul>
+
+<a href="/api/catalog/{{catalogid}}">api-view</a>
+
+{% endblock %}

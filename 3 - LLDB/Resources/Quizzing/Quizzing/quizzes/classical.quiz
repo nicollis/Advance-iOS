@@ -1,0 +1,10 @@
+{
+	Title = "Classical Music";
+	Category = 1;
+	Items = (
+	      { q = "Who is this composer?  Works include The Firebird and The Rite of Spring."; A = Stravinsky; I = stravinsky.jpg; },
+	      { q = "Who is this composer?  Works include Requiem and Academic Festival Overture."; A = Brahms; I = brahms.jpg; },
+	      { q = "Who is this composer?  Works include film scores The Fly and Silence of the Lambs"; A = "Howard Shore"; I = howardshore.jpg; },
+	      { q = "Who is this composer?  Works include Symphony #9 'The Great'"; A = "Schubert"; I = schubert.jpg; }
+	);
+}

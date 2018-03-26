@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block content %}
+
+<script type='text/javascript'>
+  function getCatalogId() {
+      return "{{ catalogid }}"
+  }
+
+  function getProductId() {
+      return "{{ productid }}"
+  }
+
+  function getProductName() {
+      return "{{ product.name }}"
+  }
+
+  function addToNativeCatalog() {
+      window.location = 'ios:addProductLocally';
+  }
+</script>
+
+<h1>{{ product.name }}</h1>
+
+<ul>
+  <li> Material: {{ product.material }}
+  <li> Price: {{ product.price }}
+</ul>
+
+
+
+<h3>Blurbs</h3>
+<ul>
+  {% for blurb in product.blurbs %}
+  <li> {{ blurb }}
+  {% endfor %}
+</ul>
+
+<h3>Specs</h3>
+<ul>
+  {% for spec in product.specs %}
+  <li> {{ spec }}!
+  {% endfor %}
+</ul>
+
+<form>
+<input type='button' style='width:90px;height:30px;'
+       onclick='window.webkit.messageHandlers.catalog.postMessage({"productId" : "{{productid}}"})'
+       value='Add locally'>
+</form>
+<p>
+
+<a href="/api/catalog/{{catalogid}}/product/{{productid}}">api-view</a>
+
+{% endblock %}
+
+

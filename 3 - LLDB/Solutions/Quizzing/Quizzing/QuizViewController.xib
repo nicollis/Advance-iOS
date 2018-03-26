@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13168.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13147.4"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="QuizViewController" customModule="Quizzing" customModuleProvider="target">
+            <connections>
+                <outlet property="answerTextField" destination="GUi-Tr-tdP" id="OHk-kl-WTz"/>
+                <outlet property="imageView" destination="ZEk-M3-ad8" id="rD8-O2-Xyd"/>
+                <outlet property="questionLabel" destination="Usa-j1-oh6" id="Hml-B9-MIH"/>
+                <outlet property="questionNumberLabel" destination="RKm-iW-o0X" id="voN-Z8-ZKK"/>
+                <outlet property="quizNameLabel" destination="Usa-j1-oh6" id="ULz-ys-Al2"/>
+                <outlet property="scoreLabel" destination="IuC-mG-KkB" id="CGM-Ad-CI5"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT" customClass="UIControl">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="320" translatesAutoresizingMaskIntoConstraints="NO" id="Usa-j1-oh6" userLabel="Label - question">
+                    <rect key="frame" x="0.0" y="65" width="375" height="74"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="74" id="1tl-gJ-t0U"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Answer" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="GUi-Tr-tdP" userLabel="TextField - Answer">
+                    <rect key="frame" x="20" y="147" width="335" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="kph-Zp-Lxg"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocorrectionType="no" returnKeyType="go"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="H3f-79-8kL"/>
+                    </connections>
+                </textField>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ZEk-M3-ad8" userLabel="Question Image">
+                    <rect key="frame" x="20" y="194" width="335" height="440"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0/0" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RKm-iW-o0X" userLabel="Label - Question number">
+                    <rect key="frame" x="20" y="642" width="60" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="60" id="K3T-au-ASR"/>
+                        <constraint firstAttribute="height" constant="21" id="ukq-4t-8Fy"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score: 0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IuC-mG-KkB" userLabel="Label - score">
+                    <rect key="frame" x="260" y="642" width="95" height="21"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="95" id="ZN8-PP-Uvv"/>
+                        <constraint firstAttribute="height" constant="21" id="bl1-B8-bkS"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="ZEk-M3-ad8" secondAttribute="trailing" constant="20" id="3WX-pe-dfn"/>
+                <constraint firstItem="RKm-iW-o0X" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="3d9-qg-WHi"/>
+                <constraint firstAttribute="bottom" secondItem="RKm-iW-o0X" secondAttribute="bottom" constant="4" id="BjH-Bw-eUp"/>
+                <constraint firstAttribute="bottom" secondItem="IuC-mG-KkB" secondAttribute="bottom" constant="4" id="Pwd-Ir-NxL"/>
+                <constraint firstItem="Usa-j1-oh6" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="65" id="Q8m-UT-bYe"/>
+                <constraint firstItem="ZEk-M3-ad8" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="UTX-UI-bBR"/>
+                <constraint firstItem="GUi-Tr-tdP" firstAttribute="top" secondItem="Usa-j1-oh6" secondAttribute="bottom" constant="8" id="UxN-Cw-9Ne"/>
+                <constraint firstItem="IuC-mG-KkB" firstAttribute="top" secondItem="ZEk-M3-ad8" secondAttribute="bottom" constant="8" id="V5v-Xa-STc"/>
+                <constraint firstAttribute="trailing" secondItem="IuC-mG-KkB" secondAttribute="trailing" constant="20" id="ZuQ-8S-wHN"/>
+                <constraint firstAttribute="trailing" secondItem="Usa-j1-oh6" secondAttribute="trailing" id="bI3-rs-zLN"/>
+                <constraint firstItem="GUi-Tr-tdP" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="20" id="e43-1o-Pa3"/>
+                <constraint firstItem="ZEk-M3-ad8" firstAttribute="top" secondItem="GUi-Tr-tdP" secondAttribute="bottom" constant="17" id="fhm-7g-OKb"/>
+                <constraint firstAttribute="trailing" secondItem="GUi-Tr-tdP" secondAttribute="trailing" constant="20" id="jj1-yR-MDQ"/>
+                <constraint firstItem="Usa-j1-oh6" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="mjq-uV-vHk"/>
+            </constraints>
+            <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+            <viewLayoutGuide key="safeArea" id="0Hb-9t-nr1"/>
+            <connections>
+                <action selector="dismissKeyboard" destination="-1" eventType="touchUpInside" id="z32-AE-HYI"/>
+            </connections>
+            <point key="canvasLocation" x="26" y="53"/>
+        </view>
+    </objects>
+</document>

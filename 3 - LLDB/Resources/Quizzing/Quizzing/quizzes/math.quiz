@@ -1,0 +1,7 @@
+{
+	Title = "Mathematics";
+	Category = 2;
+	Items = (
+	      { Q = "What is this indefinite integral?"; A = "ln(cabin) + C"; I = one-over-cabin.png; },
+	);
+}

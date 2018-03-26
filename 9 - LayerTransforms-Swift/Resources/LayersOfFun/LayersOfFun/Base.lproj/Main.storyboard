@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13168.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="vXZ-lx-hvc">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13147.4"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="LayersOfFun" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tokyotower.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="jvt-W7-mDg">
+                                <rect key="frame" x="20" y="40" width="335" height="555"/>
+                                <color key="backgroundColor" red="0.99215686270000003" green="0.79215686269999996" blue="0.27058823529999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="575" id="BC2-ph-n9b"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="BC2-ph-n9b"/>
+                                    </mask>
+                                </variation>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" verticalCompressionResistancePriority="751" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jga-j3-XaL">
+                                <rect key="frame" x="20" y="615" width="335" height="32"/>
+                                <color key="backgroundColor" red="1" green="0.63045261030349853" blue="0.18674899999809214" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                <state key="normal" title="Presto Change-o!">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="zEv-Nc-Kvv"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="1DE-X4-vat" firstAttribute="bottom" secondItem="jga-j3-XaL" secondAttribute="bottom" constant="20" id="7md-6k-lhR"/>
+                            <constraint firstItem="1DE-X4-vat" firstAttribute="trailing" secondItem="jga-j3-XaL" secondAttribute="trailing" constant="20" id="BSV-up-dhL"/>
+                            <constraint firstItem="jvt-W7-mDg" firstAttribute="leading" secondItem="1DE-X4-vat" secondAttribute="leading" constant="20" id="HeD-Ei-ifk"/>
+                            <constraint firstItem="1DE-X4-vat" firstAttribute="trailing" secondItem="jvt-W7-mDg" secondAttribute="trailing" constant="20" id="Lda-K1-XjW"/>
+                            <constraint firstItem="jga-j3-XaL" firstAttribute="leading" secondItem="1DE-X4-vat" secondAttribute="leading" constant="20" id="bJ9-d9-QyE"/>
+                            <constraint firstItem="jvt-W7-mDg" firstAttribute="top" secondItem="1DE-X4-vat" secondAttribute="top" constant="20" id="l6z-BV-Ut4"/>
+                            <constraint firstItem="jga-j3-XaL" firstAttribute="top" secondItem="jvt-W7-mDg" secondAttribute="bottom" constant="20" id="pIQ-yb-qGa"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="1DE-X4-vat"/>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <connections>
+                        <outlet property="imageHeight" destination="BC2-ph-n9b" id="jkT-k3-qhr"/>
+                        <outlet property="imageView" destination="jvt-W7-mDg" id="HUD-lQ-QYu"/>
+                        <outlet property="topPin" destination="l6z-BV-Ut4" id="CdW-pv-gu8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-383" y="425"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="tokyotower.jpg" width="1536" height="2048"/>
+    </resources>
+</document>

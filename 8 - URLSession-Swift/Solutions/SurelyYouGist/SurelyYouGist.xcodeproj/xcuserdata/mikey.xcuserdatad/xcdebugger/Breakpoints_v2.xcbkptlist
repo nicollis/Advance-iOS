@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SurelyYouGist/GistListViewController.swift"
+            timestampString = "535056414.348391"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.__deallocating_deinit"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.943282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; SurelyYouGist.GistListViewController"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.946309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.init(style: __C.UITableViewStyle) -&gt; SurelyYouGist.GistListViewController"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.949682"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SurelyYouGist.GistListViewController"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.952145"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SurelyYouGist.GistListViewController"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.955044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SurelyYouGist.GistListViewController&gt;"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.958824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurelyYouGist.GistListViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SurelyYouGist.GistListViewController&gt;"
+                  moduleName = "SurelyYouGist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikey/Checkouts/BigNerdRanch/AdvancediOSCourse/URLSession-Swift/Solutions/SurelyYouGist/SurelyYouGist/GistListViewController.swift"
+                  timestampString = "542531464.9619091"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
