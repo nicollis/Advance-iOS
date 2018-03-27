@@ -138,6 +138,8 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
                     segue.destination as! PhotoInfoViewController
                 destinationVC.photo = photo
                 destinationVC.store = store
+                destinationVC.activeFilter = selectedFilter
+                destinationVC.imageProcessor = imageProcessor
             }
         default:
             preconditionFailure("Unexpected segue identifier.")
