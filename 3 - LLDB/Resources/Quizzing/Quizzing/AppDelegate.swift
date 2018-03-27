@@ -33,7 +33,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func loadQuizzes() -> [QuizSet] {
         var quizzes = [QuizSet]()
         
-        let quizNames = ["tos", "b5", "classical", "muppets", "sf-movies", "math"]
+        let quizNames = ["tos", "b5", "classical", "sf-movies", "math"]
         
         for name in quizNames {
             let quizSet = QuizSet.quizSetFromPlistWith(name: name)

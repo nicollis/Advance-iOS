@@ -1,7 +1,6 @@
 import UIKit
 
 enum QuizSetCategory: Int {
-    case muppets  // TODO(bob) take out next version - licensing didn't work out
     case scienceFiction
     case music
     case mathematics
@@ -16,7 +15,7 @@ struct QuizSet {
     var highScore: Int {
         get {
             let defaults = UserDefaults.standard
-            let key = "highscore-\(title)"
+            let key = "highscore - \(title)"
             let hs = defaults.integer(forKey: key)
             return hs
         }
@@ -25,13 +24,12 @@ struct QuizSet {
             let key = "highscore - \(title)"
             defaults.set(newValue, forKey: key)
             
-            // bob says we don't need this on iOS just the MAC. ++Geo
-            // defaults.synchronize()
+            defaults.synchronize()
         }
     }
     
     func localizedStringForCategory() -> String {
-        let names = [ "Muppets", "Science Fiction", "Music", "Mathematics", "Movies"]
+        let names = ["Science Fiction", "Music", "Mathematics", "Movies"]
         let name = names[category.rawValue]
         return name
     }

@@ -64,11 +64,9 @@ class QuizViewController: UIViewController {
         
         navigationController?.pushViewController(qevc, animated: true)
         
-        // This doesn't seem right.  Have Bob take a look at it.  ++Geo
-        // ur right looks bad maybe u should be >=??? or somthing. -bob
-        //        if self.currentScore > quizSet.highScore {
-             quizSet.highScore = currentScore
-        //        }
+        if self.currentScore > quizSet.highScore {
+            quizSet.highScore = currentScore
+        }
     }
     
     func scoreAndMoveOn() {
@@ -81,9 +79,9 @@ class QuizViewController: UIViewController {
         }
         
         if correct {
+            currentScore += 1
             expressHappiness()
         } else {
-            currentScore += 1
             expressSadness()
         }
     }
