@@ -14,6 +14,8 @@ class PhotoInfoViewController: UIViewController {
         }
     }
     var store: PhotoStore!
+    var imageProcessor: ImageProcessor!
+    var activeFilter: ImageProcessor.Filter!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,8 +23,20 @@ class PhotoInfoViewController: UIViewController {
         store.fetchImage(for: photo, completion: { (result) -> Void in
             switch result {
             case let .success(image):
+                
+                let fuzzAction = ImageProcessor.Action.pixellateFaces
+                let filterAction = ImageProcessor.Action.filter(self.activeFilter)
+                let actions = [fuzzAction, filterAction]
+                
+                var filteredImage: UIImage
+                do {
+                    filteredImage = try self.imageProcessor.preform(actions, on: image)
+                } catch {
+                    print("Error: unable to filter image for \(self.photo): \(error)")
+                    filteredImage = image
+                }
                 OperationQueue.main.addOperation {
-                    self.imageView.image = image
+                    self.imageView.image = filteredImage
                 }
             case let .failure(error):
                 print("Error fetching image for photo: \(error)")
