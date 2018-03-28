@@ -16,6 +16,7 @@ class PhotoInfoViewController: UIViewController {
     var store: PhotoStore!
     var imageProcessor: ImageProcessor!
     var activeFilter: ImageProcessor.Filter!
+    var request: ImageProcessingRequest?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,20 +29,31 @@ class PhotoInfoViewController: UIViewController {
                 let filterAction = ImageProcessor.Action.filter(self.activeFilter)
                 let actions = [fuzzAction, filterAction]
                 
-                var filteredImage: UIImage
-                do {
-                    filteredImage = try self.imageProcessor.preform(actions, on: image)
-                } catch {
-                    print("Error: unable to filter image for \(self.photo): \(error)")
-                    filteredImage = image
-                }
-                OperationQueue.main.addOperation {
-                    self.imageView.image = filteredImage
-                }
+                self.request = self.imageProcessor.process(image: image, actions: actions, priority: .high, completion: { (actionResult) in
+                    let bigImage: UIImage
+                    switch actionResult {
+                    case let .success(filteredImage):
+                        bigImage = filteredImage
+                    case let .failure(error):
+                        print("Error: Failed to process photo \(self.photo.photoID ?? "No photo ID"): \(error)")
+                        bigImage = image
+                    case .cancelled:
+                        bigImage = image
+                    }
+                    
+                    OperationQueue.main.addOperation({
+                        self.imageView.image = bigImage
+                    })
+                })
             case let .failure(error):
                 print("Error fetching image for photo: \(error)")
             }
         })
+    }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+        request?.cancel()
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {

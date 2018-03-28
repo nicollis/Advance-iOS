@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		874B2672206AD162006226C0 /* ScheduleFetcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874B2671206AD162006226C0 /* ScheduleFetcherTests.swift */; };
+		874B2674206AE5AF006226C0 /* FakeScheduleURLProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874B2673206AE5AF006226C0 /* FakeScheduleURLProtocol.swift */; };
+		878B8149206ACD5A00933DBE /* CourseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878B8148206ACD5A00933DBE /* CourseTests.swift */; };
+		878B814B206ACE3C00933DBE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878B814A206ACE3C00933DBE /* Constants.swift */; };
 		A61D25E81AA10950004263A3 /* CourseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A61D25E71AA10950004263A3 /* CourseListViewController.swift */; };
 		A61D25EA1AA10EBD004263A3 /* ScheduleFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A61D25E91AA10EBD004263A3 /* ScheduleFetcher.swift */; };
 		A675317B1A9FCAAD0015E415 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A675317A1A9FCAAD0015E415 /* AppDelegate.swift */; };
@@ -14,7 +18,6 @@
 		A67531821A9FCAAD0015E415 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A67531811A9FCAAD0015E415 /* Images.xcassets */; };
 		A67531851A9FCAAD0015E415 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A67531831A9FCAAD0015E415 /* LaunchScreen.xib */; };
 		A675319D1A9FCADE0015E415 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = A675319B1A9FCADE0015E415 /* Course.swift */; };
-		A6D30C5D1D8CD5F500F98D36 /* RanchForecastTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D30C5C1D8CD5F500F98D36 /* RanchForecastTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +31,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		874B2671206AD162006226C0 /* ScheduleFetcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleFetcherTests.swift; sourceTree = "<group>"; };
+		874B2673206AE5AF006226C0 /* FakeScheduleURLProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeScheduleURLProtocol.swift; sourceTree = "<group>"; };
+		878B8148206ACD5A00933DBE /* CourseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTests.swift; sourceTree = "<group>"; };
+		878B814A206ACE3C00933DBE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A61D25E71AA10950004263A3 /* CourseListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseListViewController.swift; sourceTree = "<group>"; };
 		A61D25E91AA10EBD004263A3 /* ScheduleFetcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleFetcher.swift; sourceTree = "<group>"; };
 		A67531751A9FCAAD0015E415 /* RanchForecast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RanchForecast.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -39,7 +46,6 @@
 		A675318A1A9FCAAD0015E415 /* RanchForecastTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RanchForecastTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A675318F1A9FCAAD0015E415 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A675319B1A9FCADE0015E415 /* Course.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
-		A6D30C5C1D8CD5F500F98D36 /* RanchForecastTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RanchForecastTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +110,11 @@
 		A675318D1A9FCAAD0015E415 /* RanchForecastTests */ = {
 			isa = PBXGroup;
 			children = (
-				A6D30C5C1D8CD5F500F98D36 /* RanchForecastTests.swift */,
 				A675318E1A9FCAAD0015E415 /* Supporting Files */,
+				878B8148206ACD5A00933DBE /* CourseTests.swift */,
+				878B814A206ACE3C00933DBE /* Constants.swift */,
+				874B2673206AE5AF006226C0 /* FakeScheduleURLProtocol.swift */,
+				874B2671206AD162006226C0 /* ScheduleFetcherTests.swift */,
 			);
 			path = RanchForecastTests;
 			sourceTree = "<group>";
@@ -173,7 +182,7 @@
 					};
 					A67531891A9FCAAD0015E415 = {
 						CreatedOnToolsVersion = 6.1.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 0920;
 						TestTargetID = A67531741A9FCAAD0015E415;
 					};
 				};
@@ -233,7 +242,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6D30C5D1D8CD5F500F98D36 /* RanchForecastTests.swift in Sources */,
+				878B8149206ACD5A00933DBE /* CourseTests.swift in Sources */,
+				874B2674206AE5AF006226C0 /* FakeScheduleURLProtocol.swift in Sources */,
+				874B2672206AD162006226C0 /* ScheduleFetcherTests.swift in Sources */,
+				878B814B206ACE3C00933DBE /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -349,6 +361,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -370,7 +383,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ENABLE_TESTABILITY = NO;
+				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = RanchForecast/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bignerdranch.$(PRODUCT_NAME:rfc1034identifier)";
@@ -385,7 +398,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ENABLE_TESTABILITY = NO;
+				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = RanchForecast/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bignerdranch.$(PRODUCT_NAME:rfc1034identifier)";
@@ -400,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -408,7 +422,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bignerdranch.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RanchForecast.app/RanchForecast";
 			};
@@ -418,11 +433,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = RanchForecastTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bignerdranch.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RanchForecast.app/RanchForecast";
 			};

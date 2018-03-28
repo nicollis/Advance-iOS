@@ -16,8 +16,8 @@ class ScheduleFetcher {
     
     let session: URLSession
     
-    init() {
-        session = URLSession.shared
+    init(urlSession: URLSession = URLSession.shared) {
+        session = urlSession
     }
 
     func fetchCourses(completionHandler: @escaping (Result) -> (Void)) {
@@ -25,30 +25,32 @@ class ScheduleFetcher {
         let request = URLRequest(url: url)
         let task = session.dataTask(with: request, completionHandler: {
             (data, response, error) -> Void in
-            let result: Result
-            
-            defer {
-                OperationQueue.main.addOperation({
-                    completionHandler(result)
-                })
-            }
-            
-            guard let data = data, let httpResponse = response as? HTTPURLResponse else {
-                result = .failure(Error.unexpectedResponse(response, error))
-                return
-            }
-            
-            print("Received \(data.count) bytes with status code \(httpResponse.statusCode).")
-            
-            if httpResponse.statusCode == 200 {
-                result = self.digest(data: data)
-            }
-            else {
-                result = .failure(Error.status(httpResponse.statusCode))
-            }
+            let result: Result = self.digest(data: data, response: response, error: error)
+            OperationQueue.main.addOperation({
+                completionHandler(result)
+            })
 
         })
         task.resume()
+    }
+    
+    func digest(data: Data?, response: URLResponse?, error: Swift.Error?) -> Result {
+        var result: Result
+        
+        guard let data = data, let httpResponse = response as? HTTPURLResponse else {
+            result = .failure(Error.unexpectedResponse(response, error))
+            return result
+        }
+        
+        print("Received \(data.count) bytes with status code \(httpResponse.statusCode).")
+        
+        if httpResponse.statusCode == 200 {
+            result = self.digest(data: data)
+        }
+        else {
+            result = .failure(Error.status(httpResponse.statusCode))
+        }
+        return result
     }
     
     func digest(data: Data) -> Result {

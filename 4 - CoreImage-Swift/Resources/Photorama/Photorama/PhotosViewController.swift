@@ -28,6 +28,10 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
             selectedFilter = ImageProcessor.Filter.blur(intensity: 10.0)
         }
         
+        for request in request.values {
+            request.cancel()
+        }
+        request.removeAll()
         thumbnailStore.clearThumbnails()
         collectionView.reloadData()
     }
@@ -35,9 +39,9 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
     var store: PhotoStore!
     let photoDataSource = PhotoDataSource()
     let imageProcessor = ImageProcessor()
-    let processingQueue = OperationQueue()
     let thumbnailStore = ThumbnailStore()
     var selectedFilter = ImageProcessor.Filter.none
+    var request: [IndexPath:ImageProcessingRequest] = [:]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -82,6 +86,13 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
             return
         }
         
+        // Second, check to see if we've already requested a thumbnail for this cell
+        // If so just upgrade its priority
+        if let request = request[indexPath] {
+            request.priority = .high
+            return
+        }
+        
         // Download the image data, which could take some time
         store.fetchImage(for: photo, completion: { (result) -> Void in
                 
@@ -96,20 +107,24 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
             }
             let photoIndexPath = IndexPath(item: photoIndex, section: 0)
             
-            self.processingQueue.addOperation {
-                // Prepare the actions for thumbnail creation
-                let maxSize = CGSize(width: 200, height: 200)
-                let scaleAction = ImageProcessor.Action.scale(maxSize: maxSize)
-                let faceFuzzAction = ImageProcessor.Action.pixellateFaces
-                let filterAction = ImageProcessor.Action.filter(self.selectedFilter)
-                let actions = [faceFuzzAction, filterAction, scaleAction]
-                
+            // Prepare the actions for thumbnail creation
+            let maxSize = CGSize(width: 200, height: 200)
+            let scaleAction = ImageProcessor.Action.scale(maxSize: maxSize)
+            let faceFuzzAction = ImageProcessor.Action.pixellateFaces
+            let filterAction = ImageProcessor.Action.filter(self.selectedFilter)
+            let actions = [faceFuzzAction, filterAction, scaleAction]
+            
+            
+            let request = self.imageProcessor.process(image: image, actions: actions, priority: .high, completion: { (thumbResult) in
                 // Actually process the available photo into a thumbnail
                 let thumbnail: UIImage
-                do {
-                    thumbnail = try self.imageProcessor.preform(actions, on: image)
-                } catch {
-                    print("Error: unable to generate filtered thumbnail for \(photo): \(error)")
+                switch thumbResult {
+                case let .success(filteredImage):
+                    thumbnail = filteredImage
+                case let .failure(error):
+                    print("Error: Failed to process photo \(photo.photoID ?? "No photo ID"): \(error)")
+                    thumbnail = image
+                case .cancelled:
                     thumbnail = image
                 }
                 
@@ -121,12 +136,27 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
                     if let cell = self.collectionView.cellForItem(at: photoIndexPath) as? PhotoCollectionViewCell {
                         cell.update(with: thumbnail)
                     }
+                    
+                    // Stop tracking the request
+                    self.request[indexPath] = nil
                 }
+            })
+            // Start tracking the request
+            OperationQueue.main.addOperation {
+                self.request[indexPath] = request
             }
         })
     }
     
+    func collectionView(_ collectionView: UICollectionView, didEndDisplaying cell: UICollectionViewCell, forItemAt indexPath: IndexPath) {
+        request[indexPath]?.priority = .low
+    }
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        for request in request.values {
+            request.cancel()
+        }
+        request.removeAll()
         switch segue.identifier {
         case "showPhoto"?:
             if let selectedIndexPath =

@@ -27,33 +27,32 @@ class ImageProcessor {
         case incompatibleImage
         case failedToRender
         case filterConfiguration(name: String, params: [String: AnyObject]?)
+        case cancelled
     }
     
-    func preform(_ actions: [Action], on image: UIImage) throws -> UIImage {
-        // Set up the CIImage and context
-        guard var workingImage = CIImage(image: image) else {
-            throw Error.incompatibleImage
-        }
-        let context = CIContext(options: nil)
-        
-        // Apply requested processing
-        for action in actions {
-            switch action {
-            case .pixellateFaces:
-                workingImage = workingImage.pixellatedFaces(using: context)
-            case .scale(let maxSize):
-                workingImage = workingImage.scaled(toFit: maxSize)
-            case .filter(let filter):
-                workingImage = try workingImage.filtered(filter)
-            }
-            
-        }
-        
-        // Extract the resulting UIImage and handle it
-        guard let renderedImage = context.createCGImage(workingImage, from: workingImage.extent) else {
-            throw Error.failedToRender
-        }
-        let resultImage = UIImage(cgImage: renderedImage)
-        return resultImage
+    enum Priority {
+        case high
+        case low
+    }
+    
+    enum Result {
+        case success(UIImage)
+        case failure(Swift.Error)
+        case cancelled
+    }
+    
+    typealias ResultHandler = (Result) -> Void
+    
+    private let processingQueue: OperationQueue = {
+        let queue = OperationQueue()
+        queue.maxConcurrentOperationCount = 5
+        return queue
+    }()
+    
+    func process(image: UIImage, actions: [Action], priority: ImageProcessor.Priority, completion: @escaping ResultHandler) -> ImageProcessingRequest {
+        let imageOp = ImageProcessingOperation(image: image, actions: actions, priority: priority, completion: completion)
+        let request = ImageProcessingRequest(operation: imageOp, queue: processingQueue)
+        processingQueue.addOperation(imageOp)
+        return request
     }
 }
