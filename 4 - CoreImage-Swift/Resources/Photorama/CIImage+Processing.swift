@@ -94,6 +94,13 @@ extension CIImage {
             ]
             filterName = "CIGaussianBlur"
             shouldCrop = true
+        case .removeHaze:
+            parameters = [
+                kCIInputImageKey: self,
+                kCIInputRadiusKey: NSNumber(value: 10.0)
+            ]
+            filterName = "CIGaussianBlur"
+            shouldCrop = true
         }
         
         // Actually create and apply the filter

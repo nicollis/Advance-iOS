@@ -10,9 +10,18 @@ import UIKit
 
 class WordCounter: NSObject {
     
-    var totalCount = 0
-    var wordList: [String:Int] = [:]
+    private let counterQueue = DispatchQueue.global(qos: .background)
+    
+    struct State {
+        var totalCount = 0
+        var wordList: [String:Int] = [:]
+    }
+    private var lockedState = Locked(State())
     private(set) var text: Text
+    
+    var currentState: State {
+        return lockedState.withLock({$0})
+    }
 
     init(text: Text) {
         self.text = text
@@ -20,10 +29,17 @@ class WordCounter: NSObject {
     
     // MARK: - Counting
     
-    func start() {
+    func start(completion: @escaping ()->Void) {
         print("Analyzing \"\(text.name)\"")
-        countWords()
-        print("Finished  \"\(text.name)\"")
+        counterQueue.async { [weak self] in
+            guard let strongSelf = self else { return }
+            strongSelf.countWords()
+            print("Finished  \"\(strongSelf.text.name)\"")
+            DispatchQueue.main.async {
+                completion()
+            }
+        }
+        
     }
     
     private func countWords() {
@@ -35,14 +51,16 @@ class WordCounter: NSObject {
             (substring, subRange, enclosingRange, stop) in
             guard let substring = substring else { return }
             
-            if let count = self.wordList[substring] {
-                let newCount = count + 1
-                self.wordList[substring] = newCount
-            } else {
-                self.wordList[substring] = 1
-            }
-            
-            self.totalCount += 1
+            self.lockedState.withLock({ state in
+                if let count = state.wordList[substring] {
+                    let newCount = count + 1
+                    state.wordList[substring] = newCount
+                } else {
+                    state.wordList[substring] = 1
+                }
+                
+                state.totalCount += 1
+            })
         }
         
     }

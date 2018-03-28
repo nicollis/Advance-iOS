@@ -12,12 +12,10 @@ class FilesViewController: UITableViewController {
 
     let textFinder = TextFinder()
     var counters: [WordCounter] = []
+    var progressGroup = DispatchGroup()
+    var timer: DispatchSourceTimer?
     var totalCount: Int {
-        let counts = counters.map { (counter) -> Int in
-            let count = counter.totalCount
-            return count
-        }
-        let total = counts.reduce(0,+)
+        let total = counters.map({$0.currentState.totalCount}).reduce(0, +)
         return total
     }
     
@@ -30,11 +28,15 @@ class FilesViewController: UITableViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        startUpdating()
     }
     
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
+        stopUpdating()
     }
+    
+    // MARK: - Custom View Lifecycle Methods
     
     func updateFileList() {
         
@@ -53,16 +55,47 @@ class FilesViewController: UITableViewController {
                     for text in texts {
                         let counter = WordCounter(text: text)
                         strongSelf.counters.append(counter)
-                        counter.start()
+                        strongSelf.progressGroup.enter()
+                        counter.start {
+                            strongSelf.progressGroup.leave()
+                        }
                     }
 
                     strongSelf.tableView.reloadData()
-                    strongSelf.navigationItem.title = "\(strongSelf.totalCount) Words"
-                    strongSelf.presentCompletionAlert()
+                    
+                    strongSelf.progressGroup.notify(queue: .main) {
+                        strongSelf.navigationItem.title = "\(strongSelf.totalCount) Words"
+                        strongSelf.presentCompletionAlert()
+                    }
                 }
             }
         } catch {
             print("[ERR] (\(#file):\(#line)) - \(error)")
+        }
+    }
+    
+    func startUpdating() {
+        timer = DispatchSource.makeTimerSource(flags: [], queue: .main)
+        timer?.schedule(deadline: .now(), repeating: .milliseconds(16), leeway: .microseconds(5))
+        timer?.setEventHandler(qos: .userInitiated, flags: [], handler: self.update)
+        timer?.resume()
+    }
+    
+    func stopUpdating() {
+        timer?.cancel()
+        timer = nil
+        update()
+    }
+    
+    func update() {
+        navigationItem.title = "\(totalCount) words"
+        guard let visibleIndexPaths = tableView.indexPathsForVisibleRows else { return }
+        
+        for indexPath in visibleIndexPaths {
+            guard let cell = tableView.cellForRow(at: indexPath) else { continue }
+            let counter = counters[indexPath.row]
+            let count = counter.currentState.totalCount
+            cell.textLabel?.text = "\(count)"
         }
     }
     
@@ -75,7 +108,7 @@ class FilesViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "FileCellID", for: indexPath)
         let counter = counters[indexPath.row]
-        cell.textLabel?.text = "\(counter.totalCount)"
+        cell.textLabel?.text = "\(counter.currentState.totalCount)"
         cell.detailTextLabel?.text = counter.text.name
         return cell
     }

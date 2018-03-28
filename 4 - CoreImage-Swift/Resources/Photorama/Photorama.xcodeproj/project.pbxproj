@@ -25,6 +25,8 @@
 		6BE47CF51D7E110B00923DFE /* TagDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE47CF41D7E110B00923DFE /* TagDataSource.swift */; };
 		6BE47CF71D7F195300923DFE /* Photo+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE47CF61D7F195300923DFE /* Photo+CoreDataProperties.swift */; };
 		6BF4F2841D66020900F23077 /* Photorama.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BF4F2821D66020900F23077 /* Photorama.xcdatamodeld */; };
+		87050DD9206B1D8400ADE3CB /* HazeRemove.cikernel in Resources */ = {isa = PBXBuildFile; fileRef = 87050DD8206B1D8400ADE3CB /* HazeRemove.cikernel */; };
+		87050DDB206B224900ADE3CB /* HazeRemoveFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87050DDA206B224900ADE3CB /* HazeRemoveFilter.swift */; };
 		8789F3F1206AF12B00CA19DB /* ImageProcessingOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8789F3F0206AF12B00CA19DB /* ImageProcessingOperation.swift */; };
 		8789F3F3206AF65200CA19DB /* ImageProcessingRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8789F3F2206AF65200CA19DB /* ImageProcessingRequest.swift */; };
 		878B8142206A815400933DBE /* ImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878B8141206A815400933DBE /* ImageProcessor.swift */; };
@@ -74,6 +76,8 @@
 		6BE47CF41D7E110B00923DFE /* TagDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagDataSource.swift; sourceTree = "<group>"; };
 		6BE47CF61D7F195300923DFE /* Photo+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Photo+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		6BF4F2831D66020900F23077 /* Photorama.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Photorama.xcdatamodel; sourceTree = "<group>"; };
+		87050DD8206B1D8400ADE3CB /* HazeRemove.cikernel */ = {isa = PBXFileReference; lastKnownFileType = text; path = HazeRemove.cikernel; sourceTree = "<group>"; };
+		87050DDA206B224900ADE3CB /* HazeRemoveFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HazeRemoveFilter.swift; sourceTree = "<group>"; };
 		8789F3F0206AF12B00CA19DB /* ImageProcessingOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingOperation.swift; sourceTree = "<group>"; };
 		8789F3F2206AF65200CA19DB /* ImageProcessingRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessingRequest.swift; sourceTree = "<group>"; };
 		878B8141206A815400933DBE /* ImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProcessor.swift; sourceTree = "<group>"; };
@@ -109,7 +113,9 @@
 		6BCF97461B8E60E60003B52C = {
 			isa = PBXGroup;
 			children = (
+				87050DDA206B224900ADE3CB /* HazeRemoveFilter.swift */,
 				878B8141206A815400933DBE /* ImageProcessor.swift */,
+				87050DD8206B1D8400ADE3CB /* HazeRemove.cikernel */,
 				8789F3F2206AF65200CA19DB /* ImageProcessingRequest.swift */,
 				8789F3F0206AF12B00CA19DB /* ImageProcessingOperation.swift */,
 				878B8143206A829300933DBE /* CIImage+Processing.swift */,
@@ -279,6 +285,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87050DD9206B1D8400ADE3CB /* HazeRemove.cikernel in Resources */,
 				6BCF975D1B8E60E60003B52C /* LaunchScreen.storyboard in Resources */,
 				6BCF975A1B8E60E60003B52C /* Assets.xcassets in Resources */,
 				6BCF97581B8E60E60003B52C /* Main.storyboard in Resources */,
@@ -308,6 +315,7 @@
 			files = (
 				878B8146206A88D900933DBE /* ThumbnailStore.swift in Sources */,
 				8789F3F1206AF12B00CA19DB /* ImageProcessingOperation.swift in Sources */,
+				87050DDB206B224900ADE3CB /* HazeRemoveFilter.swift in Sources */,
 				6B34F0EC1D7DBEA50078C5AA /* Photo+CoreDataClass.swift in Sources */,
 				6BE47CF71D7F195300923DFE /* Photo+CoreDataProperties.swift in Sources */,
 				6BE47CF51D7E110B00923DFE /* TagDataSource.swift in Sources */,
