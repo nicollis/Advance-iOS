@@ -19,13 +19,18 @@ class HazeRemoveFilter: CIFilter {
             guard let className = NSClassFromString("HazeRemoveFilter") else { fatalError("Failed to find class name of HazeRemoveFilter") }
             let bundle = Bundle(for: className)
             guard let code = bundle.path(forResource: "HazeRemove", ofType: "cikernel") else { fatalError("Failed to load HazeRemove.cikernel from bundle") }
-            let kernels = CIKernel.makeKernels(source: code)
-            return kernels?.first
+            let kernel = CIColorKernel(source: code)
+            return kernel
     }()
     
 //    override var outputImage: CIImage? {
-//        guard let image = inputImage, let hazeRemovalKernal = HazeRemoveFilter.hazeRemovalKernal else { fatalError("No inputImage provided ")}
-//        let src = CISampler(image: image)
-//        return apply(hazeRemovalKernal, arguments: [src], options: nil)
+//        get {
+//            if let inputImage = self.inputImage {
+//                let args = [inputImage as AnyObject]
+//                return createCustomKernel().apply(withExtent: inputImage.extent, arguments: args)
+//            } else {
+//                return nil
+//            }
+//        }
 //    }
 }

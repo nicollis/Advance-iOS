@@ -15,4 +15,6 @@ enum GithubError: Error {
     case statusError(Int)
     case invalidDataError(String)
     case usernameError
+    case unknownHTTPError(Int)
+    case authenticationError
 }

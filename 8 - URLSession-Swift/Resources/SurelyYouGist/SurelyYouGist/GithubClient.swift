@@ -9,12 +9,17 @@
 import UIKit
 
 let GithubUserNameDefaultsKey = "GithubUserNameDefaultsKey"
+let GithubAuthTokenDefaultsKey = "GithubAuthTokenDefaultsKey"
 
 typealias TaskID = UUID
 
 class GithubClient: NSObject {
     
     // MARK: - Vars and Lets
+    // TODO: - This is so horrable remove this before commiting
+    let clientID = ""
+    let clientSecret = ""
+    let clientRedirectURLString = "sygist://oauth/callback/"
     
     // From documentation at https://developer.github.com/v3/oauth/
     fileprivate struct GithubURLs {
@@ -27,6 +32,81 @@ class GithubClient: NSObject {
 
     fileprivate var urlSession: URLSession = URLSession.shared
     fileprivate var inflightTasks: [UUID : URLSessionTask] = [:]
+    fileprivate var currentStateString: String = UUID().uuidString
+    
+    // MARK: - OAuth
+    
+    // OAuth step 1 get a authorization grant
+    func beginAuthorizationByFetchingGrant() {
+        currentStateString = UUID().uuidString
+        
+        var urlComponents = URLComponents(url: GithubURLs.authorizeURL, resolvingAgainstBaseURL: true)!
+        
+        let queryItems = [
+            URLQueryItem(name: "client_id", value: clientID),
+            URLQueryItem(name: "redirect_uri", value: clientRedirectURLString),
+            URLQueryItem(name: "state", value: currentStateString),
+            URLQueryItem(name: "scope", value: "gist")
+        ]
+        
+        urlComponents.queryItems = queryItems
+        
+        if let url = urlComponents.url {
+            UIApplication.shared.open(url)
+        }
+        // Register for open URL notifications
+        NotificationCenter.default.addObserver(self, selector: #selector(GithubClient.observationSygistDidOpenURLNotification(_:)), name: .SygistDidReceiveURLNotification, object: nil)
+    }
+    
+    // OAuth step 2: user accepts, which calls back to our app with the request code
+    @objc func observationSygistDidOpenURLNotification(_ note: Notification) {
+        guard let url = (note as NSNotification).userInfo?[SygistOpenURLInfoKey] as? URL,
+            let queryItems = URLComponents(url: url, resolvingAgainstBaseURL: true)?.queryItems,
+            url.host == "oauth" && url.path == "/callback" else {
+                print("SygistDidReceiveURLNotification had invalid or non-URL SygistOpenURLInfoKey")
+                return
+        }
+        
+        for queryItem in queryItems where queryItem.name == "code" {
+            let grantCode = queryItem.value!
+            fetchTokenUsingGrant(grantCode)
+        }
+    }
+    
+    // OAuth step 3: we post the request code back to GitHub.
+    func fetchTokenUsingGrant(_ grantCode:String) {
+        
+        let bodyDict = [
+            "client_id"     : clientID,
+            "client_secret" : clientSecret,
+            "code"          : grantCode,
+            "redirect_uri"  : clientRedirectURLString
+        ]
+        
+        let url = GithubURLs.tokenURL
+        let request = NSMutableURLRequest(url: url)
+        let bodyData = try! JSONSerialization.data(withJSONObject: bodyDict, options: [])
+        request.httpMethod = "POST"
+        request.httpBody = bodyData
+        request.setValue(nil, forHTTPHeaderField: "Authorization")
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        request.setValue("application/json", forHTTPHeaderField: "Accept")
+        
+        _ = fetchDataWithRequest(request as URLRequest, withCompletion: { (result) in
+            switch result {
+            case .success(let data):
+                do {
+                    let token = try GithubImporter.tokenFromData(data)
+                    self.accessToken = token
+                    print("Fetched access token \(token)")
+                } catch (let parseError) {
+                    print("Error: Can't parse token data: \(parseError)")
+                }
+            case .failure(let error):
+                print("Error: No token data: \(error)")
+            }
+        })
+    }
     
     // Github Credentials
     var userID: String? {
@@ -41,9 +121,23 @@ class GithubClient: NSObject {
         }
     }
     
+    fileprivate var accessToken: String? {
+        get {
+            return GithubKeychain.token()
+        }
+        set {
+            _ = GithubKeychain.storeToken(newValue)
+            configureSession()
+        }
+    }
+    
     override init() {
         super.init()
         configureSession()
+    }
+    
+    deinit {
+        NotificationCenter.default.removeObserver(self)
     }
     
     // MARK: - Public Requests
@@ -124,8 +218,16 @@ class GithubClient: NSObject {
                 return
             }
             
+            switch response.statusCode {
+            case 200:
+                completion(.success(data))
+            case 401:
+                completion(.failure(GithubError.authenticationError))
+            default:
+                completion(.failure(GithubError.unknownHTTPError(response.statusCode)))
+            }
+            
             print("Received status code \(response.statusCode) and \(data.count) bytes of data from \(String(describing: request.url))")
-            completion(.success(data))
         })
         
         inflightTasks[taskID] = task
@@ -147,6 +249,11 @@ class GithubClient: NSObject {
         config.httpAdditionalHeaders = [
             "Accept" : "application/json"
         ]
+        
+        if let token = accessToken {
+            config.httpAdditionalHeaders!["Authorization"] = "Bearer \(token)"
+        }
+        
         urlSession = URLSession(configuration: config)
     }
 

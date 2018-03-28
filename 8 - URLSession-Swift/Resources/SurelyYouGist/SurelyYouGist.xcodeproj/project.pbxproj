@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		83746353199A924700490701 /* GithubClientConsumer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83746352199A924700490701 /* GithubClientConsumer.swift */; };
+		87EBC32C206C1F7800228578 /* GithubKeychain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87EBC32B206C1F7800228578 /* GithubKeychain.swift */; };
 		A67166DE197F05A600E8B476 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A67166DD197F05A600E8B476 /* AppDelegate.swift */; };
 		A67166E3197F05A600E8B476 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A67166E1197F05A600E8B476 /* Main.storyboard */; };
 		A67166FB197F069A00E8B476 /* GistListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A67166FA197F069A00E8B476 /* GistListViewController.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		83746352199A924700490701 /* GithubClientConsumer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GithubClientConsumer.swift; sourceTree = "<group>"; };
+		87EBC32B206C1F7800228578 /* GithubKeychain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubKeychain.swift; sourceTree = "<group>"; };
 		A67166D8197F05A600E8B476 /* SurelyYouGist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SurelyYouGist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A67166DC197F05A600E8B476 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A67166DD197F05A600E8B476 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				A6716700197F074D00E8B476 /* GithubFile.swift */,
 				A6E52B9B1BC3FF0D002F17AF /* GithubError.swift */,
 				A69B24691BC8485800E36245 /* GithubResult.swift */,
+				87EBC32B206C1F7800228578 /* GithubKeychain.swift */,
 			);
 			name = "Importing from Github";
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				A67166DE197F05A600E8B476 /* AppDelegate.swift in Sources */,
 				A67166FF197F06C300E8B476 /* FileViewController.swift in Sources */,
 				A67166FD197F06B200E8B476 /* FileListViewController.swift in Sources */,
+				87EBC32C206C1F7800228578 /* GithubKeychain.swift in Sources */,
 				A6716707197F190900E8B476 /* GithubClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

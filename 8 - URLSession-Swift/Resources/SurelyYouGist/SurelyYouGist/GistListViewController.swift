@@ -15,6 +15,11 @@ class GistListViewController: UITableViewController, UITextFieldDelegate, Github
     var gistsToShow = [GithubGist]()
     var githubClient: GithubClient?
     
+    @IBAction func loginButtonPressed(_ sender: Any) {
+        githubClient?.beginAuthorizationByFetchingGrant()
+    }
+    
+    
     // MARK: - Lifecycle
     
     override func viewDidLoad() {
