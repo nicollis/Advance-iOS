@@ -73,7 +73,7 @@
                     <navigationItem key="navigationItem" id="7Hz-aI-o57">
                         <nil key="title"/>
                         <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="TpA-Zm-rab">
-                            <rect key="frame" x="48" y="7" width="279" height="30"/>
+                            <rect key="frame" x="8" y="7" width="359" height="30"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <segments>
                                 <segment title="None"/>
@@ -81,6 +81,8 @@
                                 <segment title="Sepia"/>
                                 <segment title="Blur"/>
                                 <segment title="- Haze"/>
+                                <segment title="Bold"/>
+                                <segment title="Glass"/>
                             </segments>
                             <connections>
                                 <action selector="filterChoiceChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="Wjl-l4-Bhe"/>

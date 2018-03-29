@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         rootViewController.topViewController as! PhotosViewController
         photosViewController.store = PhotoStore()
         
+        CustomFiltersVendor.registerFilters()
+        
         return true
     }
 

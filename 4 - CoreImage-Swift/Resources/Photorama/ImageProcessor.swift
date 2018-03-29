@@ -22,6 +22,8 @@ class ImageProcessor {
         case sepia(intensity: Double)
         case blur(intensity: Double)
         case removeHaze
+        case bold
+        case glass(intensity: Double)
     }
     
     enum Error: Swift.Error {

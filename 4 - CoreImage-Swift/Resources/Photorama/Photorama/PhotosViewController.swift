@@ -10,7 +10,7 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
     
     @IBAction func filterChoiceChanged(_ sender: UISegmentedControl) {
         enum FilterChoice: Int {
-            case none = 0, gloom, sepia, blur, removeHaze
+            case none = 0, gloom, sepia, blur, removeHaze, bold, glass
         }
         
         guard let choice = FilterChoice(rawValue: sender.selectedSegmentIndex) else {
@@ -28,6 +28,10 @@ class PhotosViewController: UIViewController, UICollectionViewDelegate {
             selectedFilter = ImageProcessor.Filter.blur(intensity: 10.0)
         case .removeHaze:
             selectedFilter = ImageProcessor.Filter.removeHaze
+        case .bold:
+            selectedFilter = ImageProcessor.Filter.bold
+        case .glass:
+            selectedFilter = ImageProcessor.Filter.glass(intensity: 0.3)
         }
         
         for request in request.values {

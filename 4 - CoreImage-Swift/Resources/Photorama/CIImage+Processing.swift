@@ -96,10 +96,22 @@ extension CIImage {
             shouldCrop = true
         case .removeHaze:
             parameters = [
-                kCIInputImageKey: self,
-                kCIInputRadiusKey: NSNumber(value: 10.0)
+                kCIInputImageKey: self
             ]
-            filterName = "CIGaussianBlur"
+            filterName = CustomFiltersVendor.HazeRemoveFilterName
+            shouldCrop = false
+        case .bold:
+            parameters = [
+                kCIInputImageKey: self,
+            ]
+            filterName = "CILinearToSRGBToneCurve"
+            shouldCrop = false
+        case .glass(let intensity):
+            parameters = [
+                kCIInputImageKey: self,
+                kCIInputIntensityKey: NSNumber(value: intensity)
+            ]
+            filterName = CustomFiltersVendor.IceSheetFilterName
             shouldCrop = true
         }
         
@@ -116,5 +128,14 @@ extension CIImage {
         } else {
             return output
         }
+    }
+    
+    private func customFiltered() -> CIImage? {
+        let f = HazeRemoveFilter()
+        f.setValue(self, forKey: kCIInputImageKey)
+        f.setValue(CIColor.init(red: 0.7, green: 0.9, blue: 1), forKey: kCIInputColorKey)
+        f.setValue(0.0, forKey: "inputDistance")
+        f.setValue(0.0, forKey: "inputSlope")
+        return f.outputImage
     }
 }

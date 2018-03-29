@@ -10,6 +10,7 @@ import UIKit
 
 let GithubUserNameDefaultsKey = "GithubUserNameDefaultsKey"
 let GithubAuthTokenDefaultsKey = "GithubAuthTokenDefaultsKey"
+let SharedDefaultsSuiteName = "group.digital.ollisllc.SurelyYouGist"
 
 typealias TaskID = UUID
 
@@ -17,8 +18,8 @@ class GithubClient: NSObject {
     
     // MARK: - Vars and Lets
     // TODO: - This is so horrable remove this before commiting
-    let clientID = ""
-    let clientSecret = ""
+    let clientID = "80bbc8f793514c211148"
+    let clientSecret = "ae6466c5a4993328ae53e16dbc56ada094cd061e"
     let clientRedirectURLString = "sygist://oauth/callback/"
     
     // From documentation at https://developer.github.com/v3/oauth/
@@ -112,12 +113,21 @@ class GithubClient: NSObject {
     var userID: String? {
         get {
             let defaults = UserDefaults.standard
-            return defaults.object(forKey: GithubUserNameDefaultsKey) as? String
+            var id = defaults.object(forKey: GithubUserNameDefaultsKey) as? String
+            if id == nil {
+                let defaultsSuite = UserDefaults(suiteName: SharedDefaultsSuiteName)
+                id = defaultsSuite?.object(forKey: GithubUserNameDefaultsKey) as? String
+            }
+            return id
         }
         set {
             let defaults = UserDefaults.standard
             defaults.set(newValue, forKey: GithubUserNameDefaultsKey)
             defaults.synchronize()
+            
+            let defaultsSuite = UserDefaults(suiteName: SharedDefaultsSuiteName)
+            defaultsSuite?.set(newValue, forKey: GithubUserNameDefaultsKey)
+            defaultsSuite?.synchronize()
         }
     }
     
